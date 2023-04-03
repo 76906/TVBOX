@@ -117,7 +117,14 @@
 
 {"key":"鸡婆","name": "️鸡婆采集","type": 1,"api": "https://www.jipo.tv/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":[]},
 {"key":"csp_XBPQ_yohu","name":"yohu┃XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E6%B2%B9%E5%A3%B6.json"},
-	
+{"key": "csp_xpath_独播库",
+      "name": "🐲独播库",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duboku.json"},	
 	
 	
 {"key":"3EDY","name":"3EDY(EXO)","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "http://cdn.qiaoji8.com/fix230320.jar"},
