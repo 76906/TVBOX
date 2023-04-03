@@ -69,10 +69,7 @@
 
 
 
-{
-            "name": "云星",
-            "server": " http://alist.itvbox.cc"
-        },
+
 
 {"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"https://4kal.netlify.app/tvbox/lib/alist.min.js","ext":"https://4kal.netlify.app/tvbox/json/alist.json"},
 
