@@ -116,7 +116,8 @@
         },
 
 {"key":"鸡婆","name": "️鸡婆采集","type": 1,"api": "https://www.jipo.tv/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":[]},
-{"key":"csp_XBPQ_yohu","name":"yohu┃XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/122739/%E6%B2%B9%E5%A3%B6.json?sign=deNRbyvH2NOgUOvDKYRSb_4gs8_dMhu-9plFoSuC_jk%3D%3A0"},
+
+	
 {"key": "csp_xpath_独播库",
       "name": "🐲独播库",
       "type": 3,
