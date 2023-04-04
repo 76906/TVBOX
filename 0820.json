@@ -227,13 +227,7 @@
             "filterable": 1,
             "ext": "https://yydsys.top/duo/json/锐行.json"
         },
-{
-            "key": "js_alistbaby",
-            "name": "👶宝宝网盘",
-            "type": 3,
-            "api": "https://framagit.org/duomv/duo/-/raw/main/js/alistbaby.js",
-            "ext": "https://yydsys.top/duo/json/baby.json"
-        },
+
         {
             "key": "py_baby",
             "name": "🧗‍宝宝专辑",
