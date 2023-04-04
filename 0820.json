@@ -1344,6 +1344,12 @@
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
+	
+{"name":"猫影视解析","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3266342&key=clmqrwCEFHJR025789&url="},
+{"name":"解析1","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+	
+	
+	
 {
             "name": "官解",
             "type": 1,
