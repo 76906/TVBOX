@@ -282,7 +282,6 @@
 
 	
 {"key":"3EDY","name":"3EDY(EXO)","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "http://cdn.qiaoji8.com/fix230320.jar"},
-{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "http://cdn.qiaoji8.com/fix230320.jar"},
 {"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/lzk23559/TVRule/-/raw/main/XYQHiker/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.json"},
 {"key": "csp_XYQHiker_188影视","name":"188影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/lzk23559/TVRule/-/raw/main/XYQHiker/188%E5%BD%B1%E8%A7%86.json"},
 {"key": "csp_XYQHiker_348电影网","name":"348电影网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/lzk23559/TVRule/-/raw/main/XYQHiker/348%E7%94%B5%E5%BD%B1%E7%BD%91.json"},
