@@ -91,7 +91,8 @@
       "changeable": 0,
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/token/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
-
+{"key":"奥特影视","name":"🍈奥特影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XYQH/奥特.json"},
 
 
 
@@ -114,31 +115,11 @@
 
 {"key":"鸡婆","name": "️鸡婆采集","type": 1,"api": "https://www.jipo.tv/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":[]},
 
-{
-            "key": "草民",
-            "name": "️草民影院",
-            "type": 1,
-            "api": "https://www.xsgj.net/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "海外剧",
-                "综艺",
-                "动漫",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "恐怖片",
-                "科幻片",   
-                "剧情片",
-                "战争片"             
-            ]
-        },
-
+{"key":"草民","name":"🍀草民","api":"https://www.xsgj.net/api.php/provide/vod/","type":1,"filterable":1,"quickSearch":1,"searchable":1,"categories":["国产剧","港台剧","动画片","大陆综艺","国产动漫","武侠片","电影","剧集","综艺","动漫","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片",日韩剧","欧美剧","奇幻片","犯罪片","日韩综艺","其他综艺","悬疑片","冒险片","演员库","惊悚片","灾难片","海外剧","其他剧",其他片","歌舞片","传记片","历史片","日韩动漫","欧美动漫","资讯分类","影视资讯","国创","B站","番剧","港台综艺","欧美综艺","港台动漫","海外动漫","体育","电影解说","足球","网球","篮球","斯诺克","泰剧","预告片"]},
+{"key":"资源库","name":"🥇资源库","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+	
+	
+	
 {
             "key": "米杏",
             "name": "️米杏采集",
@@ -1360,6 +1341,7 @@
 	
 {"name":"猫影视解析","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3266342&key=clmqrwCEFHJR025789&url="},
 {"name":"解析1","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 	
 	
 	
