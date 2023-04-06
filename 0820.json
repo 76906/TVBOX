@@ -315,7 +315,16 @@
 {"key": "csp_XYQHiker_巨人影院","name":"巨人影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://framagit.org/lzk23559/TVRule/-/raw/main/XYQHiker/巨人影院.json"},
 {"key": "csp_XYQHiker_我不卡影院","name": "我不卡影院(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQHiker/我不卡影院.json"},
 {"key": "csp_XYQHiker_GimyTV劇迷","name": "GimyTV劇迷(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQHiker/GimyTV劇迷.json"},	
-	
+{
+            "key": "csp_XYQHiker_出差番",
+            "name": "出差番(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%87%BA%E5%B7%AE%E7%95%AA.json"
+        },	
 	
 	
 	
