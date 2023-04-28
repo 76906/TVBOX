@@ -68,10 +68,9 @@
 
 
 
-{"key":"AList","name":"🗂Alist合集","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yydsys.top/duo/json/alist1.json"},
 
-
-
+{"key":"简写|模板","name":"麻衣呀呼丨影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$id-a#电视剧$id-b#综艺$id-d#动漫$id-c","分类url":"https://www.mayiyahu.com/s/{cateId}/area/{area}/class/{class}/year/{year}.html"}},
+ 
 
 
 
