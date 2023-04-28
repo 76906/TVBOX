@@ -73,6 +73,13 @@
  
 
 
+{"key":"一龙高清","name":"一龙高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fastly.jsdelivr.net/gh/76906/TVBOX@main/APP/%E4%B8%80%E9%BE%99%E9%AB%98%E6%B8%85.json"},
+{"key":"白狐","name":"白狐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/137571/%E7%99%BD%E7%8B%90.json?sign=0XbcD3sdYyGb1n_-JBA2OuMRul2LjOrZzQ2baCqBx34%3D%3A0"},
+{"key":"6080","name":"6080","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/137572/6080.json?sign=AcsRJQoZAc0RlSZMnNzHLaueWBvqqV2_czA2DrfKHTI%3D%3A0"},
+
+{"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137574/%E5%A4%A7%E8%B1%86.js?sign=SWXfJDirspeHU3bIyT1q4VaKDlqZDTLZvYj24JgmCBM%3D%3A0"},
+{"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137575/LIBVIO.js?sign=th23kkijH48LQHeauQr2ac1BtleJ3OqYBWIHG8dOUe8%3D%3A0"},
+{"key":"drpy_js_8K影视","name":"影视 | 8K影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137576/8K%E5%BD%B1%E8%A7%86.js?sign=r9trx74xfRRIQ2R24V3FFsF8c-RSuZUhSxs_QutASy8%3D%3A0"},
 
 
 
