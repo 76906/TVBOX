@@ -114,6 +114,22 @@
 {"key":"101影院","name":"🎞101影院","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/l0l.js"},
 {"key":"奥特","name":"🐼奥特","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/Auete.js"},	
 	
+
+	
+	
+	
+//-----菜妮丝	
+{"key":"69美剧","name":"69美剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+{"key":"饭团影视","name":"饭团┃影视1","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/js/饭团影视.js"},
+{"key":"饭团影院","name":"饭团┃影视2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/XBPQ/饭团影院.json"},
+{"key":"139影视","name":"139┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/js/139影视.js"},
+{"key":"FreeOK","name":"FreeOK┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/XBPQ/FreeOK.json"},
+{"key":"热播库","name":"热播库┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/XBPQ/热播库.json"},
+{"key":"APP影院","name":"APP┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/XBPQ/APP影院.json"},
+{"key":"剧白白","name":"剧白白┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/XBPQ/剧白白.json"},
+	
+	
+	
 	
 
 {
