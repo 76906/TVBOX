@@ -84,6 +84,11 @@
 {"key":"6080","name":"6080","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/137572/6080.json?sign=AcsRJQoZAc0RlSZMnNzHLaueWBvqqV2_czA2DrfKHTI%3D%3A0"},
 {"key":"TVB云播","name":"TVB云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/TVB%E4%BA%91%E6%92%AD.json"},
 {"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E8%87%AD%E8%9B%8B%E8%9B%8B.json"},
+{"key":"影视大全","name":"影视大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8.json"},
+
+
+
+
 
 
 {"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137574/%E5%A4%A7%E8%B1%86.js?sign=SWXfJDirspeHU3bIyT1q4VaKDlqZDTLZvYj24JgmCBM%3D%3A0"},
@@ -106,7 +111,6 @@
 {"key":"兄弟影视","name":"🍀兄弟影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/xiongdiyingshi.js"},
 {"key":"大师兄影视","name":"🍀大师兄影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/dashixiongyingshi.js"},
 {"key":"创艺影视","name":"🍀创艺影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/chuangyi.js"},
-{"key":"csp_appysv2_69美剧","name":"🗽69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},	
 {"key":"101影院","name":"🎞101影院","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/l0l.js"},
 {"key":"奥特","name":"🐼奥特","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/Auete.js"},	
 	
