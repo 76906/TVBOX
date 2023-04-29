@@ -82,14 +82,7 @@
 {"key":"drpy_js_8K影视","name":"影视 | 8K影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137576/8K%E5%BD%B1%E8%A7%86.js?sign=r9trx74xfRRIQ2R24V3FFsF8c-RSuZUhSxs_QutASy8%3D%3A0"},
 
 
-{
-            "key": "zx",
-            "name": "zx视频",
-            "type": 3,
-            "api": "http://xg.zxzx.fun/api.php/provide/vod/",
-             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0},
+
 
 
 
