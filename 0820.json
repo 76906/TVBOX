@@ -99,12 +99,11 @@
 {"key":"素白白","name":"💮素白白","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/subaibai.js"},	
 {"key":"二次萌","name":"🏠二次萌","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/ercimeng.js"},
 {"key":"人人影视","name":"🍀人人影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/renren.js"},
-{"key":"csp_AppYsV2","name":"🗽69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"看看电影","name":"🍀看看电影","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/kankandianying.js"},
 {"key":"兄弟影视","name":"🍀兄弟影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/xiongdiyingshi.js"},
 {"key":"大师兄影视","name":"🍀大师兄影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/dashixiongyingshi.js"},
 {"key":"创艺影视","name":"🍀创艺影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/chuangyi.js"},
-	
+{"key":"csp_appysv2_69美剧","name":"🗽69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},	
 	
 	
 	
