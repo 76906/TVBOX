@@ -129,6 +129,15 @@
 {"key":"剧白白","name":"剧白白┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/XBPQ/剧白白.json"},
 	
 	
+
+//-----小胡线路	
+{"key":"速搜","name":"🍓速搜┃影院","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/速搜影院.js"},
+{"key":"皮皮鸭","name":"🍓皮皮┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/皮皮鸭.js"},
+{"key":"米爱影视","name":"🍓米爱┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/米爱.js"},
+{"key":"七年影视","name":"🍓七年┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/七年.js"},
+{"key":"花猫","name":"🍓花猫┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/花猫TV.js"},
+{"key":"奇优","name":"🍆奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/奇优影视.json"},
+{"key":"vofx","name":"🍆Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/voflix.json"},	
 	
 	
 
