@@ -94,7 +94,10 @@
 {"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137574/%E5%A4%A7%E8%B1%86.js?sign=SWXfJDirspeHU3bIyT1q4VaKDlqZDTLZvYj24JgmCBM%3D%3A0"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137575/LIBVIO.js?sign=th23kkijH48LQHeauQr2ac1BtleJ3OqYBWIHG8dOUe8%3D%3A0"},
 {"key":"drpy_js_8K影视","name":"影视 | 8K影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137576/8K%E5%BD%B1%E8%A7%86.js?sign=r9trx74xfRRIQ2R24V3FFsF8c-RSuZUhSxs_QutASy8%3D%3A0"},
-
+{"key":"drpy_js_七年影视","name":"影视 | 七年影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/commit/402c1dbb8bbced081c74bb46fa3ba29616e264eb/js/%e4%b8%83%e5%b9%b4%e5%bd%b1%e8%a7%86.js"},	
+	
+	
+	
 
 {"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_xigua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://weixine.net/py/py_xigua.py"},
 {"key":"热播之家","name":"☘️热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/rebozj.json"},
@@ -145,7 +148,7 @@
 	
 	
 	
-{"key":"drpy_js_七年影视","name":"影视 | 七年影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/commit/402c1dbb8bbced081c74bb46fa3ba29616e264eb/js/%e4%b8%83%e5%b9%b4%e5%bd%b1%e8%a7%86.js"},	
+
 
 {
       "key": "push_agent",
