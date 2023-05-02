@@ -396,8 +396,7 @@
 {"key":"csp_xb_shm","name":"神马影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
 {"key":"csp_xBPQ_胖虎影视","name":"胖虎影视[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/xBPQ/%E8%83%96%E8%99%8E%E5%BD%B1%E8%A7%86.json"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
-{"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+{"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"Hei19","name":"🍅石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
