@@ -97,9 +97,14 @@
 {"key": "csp_XYQHiker_魔戒影院","name":"魔戒影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E9%AD%94%E6%88%92%E5%BD%B1%E9%99%A2.json"},	
 {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%94%B5%E5%BD%B1%E6%B8%AF%E7%A3%81%E5%8A%9B.json"},	
 {"key": "csp_XYQHiker_异视琳琅","name":"异视琳琅(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%BC%82%E8%A7%86%E7%90%B3%E7%90%85.json"},	
+{"key": "csp_XYQHiker_端木视频","name":"端木视频(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%AB%AF%E6%9C%A8%E8%A7%86%E9%A2%91.json"},
 
 
-
+	
+	
+	
+	
+	
 
 {"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137574/%E5%A4%A7%E8%B1%86.js?sign=SWXfJDirspeHU3bIyT1q4VaKDlqZDTLZvYj24JgmCBM%3D%3A0"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/137575/LIBVIO.js?sign=th23kkijH48LQHeauQr2ac1BtleJ3OqYBWIHG8dOUe8%3D%3A0"},
