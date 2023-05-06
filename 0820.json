@@ -1512,14 +1512,8 @@
 {"name":"解析1","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/api/?key=PGTVs4AZiCewb2UWos&url="},	
-{"name":"1101","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
 
-{"name":"1102","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="},
-
-{"name":"1103","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=abhstwDGRSUVYZ0127&mgtv=app&url="},
-
-{"name":"113","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
-	
+{"name":"110","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},	
 	
 {
             "name": "官解",
