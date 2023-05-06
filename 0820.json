@@ -70,7 +70,7 @@
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
-
+{"key": "csp_XYQHiker_土狗搜索","name":"📀土狗搜索(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%9C%9F%E7%8B%97%E6%90%9C%E7%B4%A2.json"},
 	
 	
 	
