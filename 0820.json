@@ -185,10 +185,15 @@
 {"key":"花猫","name":"🍓花猫┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/花猫TV.js"},
 {"key":"思古","name":"🤡思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/思古.json"},
 {"key":"vofx","name":"🤡Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/voflix.json"},	
-	
-	
+{"key":"wz","name":"🤡王者┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/wz.json"},	
+{"key":"奇优","name":"🤡奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/奇优.json"},	
 
 
+	
+	
+	
+	
+	
 {
       "key": "push_agent",
       "name": "推送",
