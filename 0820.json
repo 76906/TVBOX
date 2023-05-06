@@ -1514,6 +1514,10 @@
 {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/api/?key=PGTVs4AZiCewb2UWos&url="},	
 
 {"name":"110","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},	
+{"name":"113","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+{"name":"ITV","type":1,"url":"https://www.itvbox.cc/bhc.php?url="},	
+	
+	
 	
 {
             "name": "官解",
