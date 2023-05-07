@@ -105,7 +105,7 @@
        "分类": "连续剧$2#电影$1#综艺$3#动漫$4",
       "分类url": "https://www.4kdyw.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","数组": "class=\"module-item-pic&&</div>"}},
 	
-{"key":"csp_XBPQ_看片","name":"看片丨xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playerType":2,"playUrl":"","ext":{"分类": "电影$1#剧集$2#综艺$3#动漫$4","分类url": "https://kpkuang.vip/vodshow/{cateId}-{area}-{by}------{catePg}---{year}--.html"}},	
+
 	
 	
 
