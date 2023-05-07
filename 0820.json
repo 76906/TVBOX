@@ -166,17 +166,7 @@
 {"key":"奥特","name":"🐼奥特","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/Auete.js"},	
 	
 
-{
-		"key": "dr_Ddys",
-		"name": "秒播┃欧美日韩",
-		"type": 3,
-		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.js"
-	},
+
 {
 		"key": "csp_Dmsvip",
 		"name": "秒播┃端木视频",
