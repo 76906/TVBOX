@@ -124,7 +124,7 @@
 	
 
 {"key":"csp_xb_fg","name":"疯狗影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
-	
+{"key":"csp_XYQBiu_骚火电影VIP","name":"骚火电影VIP(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/src/branch/master/XYQBiu/骚火电影VIP.json"},	
 	
 
 
