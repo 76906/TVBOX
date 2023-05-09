@@ -122,7 +122,8 @@
        "分类": "连续剧$2#电影$1#综艺$3#动漫$4",
       "分类url": "https://www.4kdyw.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","数组": "class=\"module-item-pic&&</div>"}},
 	
-
+{"key":"csp_xb_qsp","name":"氢视频[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
+{"key":"csp_xb_fg","name":"疯狗影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
 	
 	
 
