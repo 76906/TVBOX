@@ -123,9 +123,8 @@
       "分类url": "https://www.4kdyw.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","数组": "class=\"module-item-pic&&</div>"}},
 	
 
-{"key":"csp_xb_fg","name":"疯狗影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
-{"key":"csp_XYQBiu_骚火电影VIP","name":"骚火电影VIP(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/src/branch/master/XYQBiu/骚火电影VIP.json"},	
-	
+{"key":"csp_xb_fg","name":"疯狗影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},	
+{"key":"骚火电影VIP","name":"骚火电影VIP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/commit/1890ebecf999b9d46965428f7e62c54a61317875/XYQBiu/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1VIP.json"},	
 
 
 
