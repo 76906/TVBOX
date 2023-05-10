@@ -148,7 +148,7 @@
 {"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.json"},
 {"key": "csp_XYQHiker_魔戒影院","name":"魔戒影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E9%AD%94%E6%88%92%E5%BD%B1%E9%99%A2.json"},	
 
-
+{"key":"TVB云播","name":"TVB云播┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/js/TVB云播.js"},
 
 	
 	
@@ -179,7 +179,6 @@
 {"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/yanaifei.js"},
 {"key":"Vidhub视频","name": "Vidhub视频库","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/52670576/tvbox/main/sub/Vidhub.json?btwaf=46445294"},	
 {"key":"素白白","name":"💮素白白","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/subaibai.js"},	
-{"key":"二次萌","name":"🏠二次萌","type":3,"api":"https://raw.iqiq.io/52670576/tvbox/main/js/lib/drpy2.min.js","ext":"https://raw.iqiq.io/52670576/tvbox/main/js/ercimeng.js"},
 {"key":"人人影视","name":"🍀人人影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/renren.js"},
 {"key":"看看电影","name":"🍀看看电影","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/kankandianying.js"},
 {"key":"兄弟影视","name":"🍀兄弟影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/xiongdiyingshi.js"},
