@@ -83,7 +83,7 @@
 	
 {"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt","jar": "http://我不是.肥猫.love:63/Jar/pandaQ230505.jar"},
 	
-	
+{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
 	
 	
 	
@@ -280,16 +280,6 @@
 	
 	
 	
-{
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/token/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-    },
 
 {"key":"野荷塘","name":"｜野荷塘影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类": "电影$1#电视剧$2#综艺$3#动漫$4#少儿$33#","分类url":"https://www.yehetang.cc/show/{cateId}--------{catePg}---.html","搜索url":"/vodsearch/{wd}-------------.html"}},
 
