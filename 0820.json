@@ -151,7 +151,7 @@
 
 {"key":"TVB云播","name":"TVB云播┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/js/TVB云播.js"},
 
-{"key":"WETV","name":"动画片","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"playUrl":"","ext":{"分类":"益智$益智#励志$励志","分类url":"https://tv.wevip.cc/vodshow/MIIIIi-{area}-{by}-{cateId}-{lang}----{catePg}---{year}.html"}},	
+
 {
       "key": "23┃影视",
       "name": "23┃影视",
@@ -163,26 +163,7 @@
       "ext": "http://www.tvboxx.com.cn/tvbox/json/23.json"
     },	
 	
-{
-            "key": "dr_我爱电影网",
-            "name": "我爱电影网(drpy)",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/js/我爱电影网.js"
-        },
-{
-            "key": "dr_蓝莓影视",
-            "name": "蓝莓影视(drpy)",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/js/蓝莓影视.js"
-        },	
+
 	
 	
 	
