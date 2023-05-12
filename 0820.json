@@ -163,6 +163,34 @@
       "ext": "http://www.tvboxx.com.cn/tvbox/json/23.json"
     },	
 	
+{
+            "key": "dr_我爱电影网",
+            "name": "我爱电影网(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/我爱电影网.js"
+        },
+{
+            "key": "dr_蓝莓影视",
+            "name": "蓝莓影视(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/蓝莓影视.js"
+        },	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
