@@ -138,7 +138,11 @@
 {"key":"影视大全","name":"影视大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8.json"},
 {"key":"路人甲","name":"路人甲","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E8%B7%AF%E4%BA%BA%E7%94%B2(1).json"},
 {"key":"看看剧","name":"看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%9C%8B%E7%9C%8B%E5%89%A7.json"},
-
+{"key":"youhu","name":"油壶","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E6%B2%B9%E5%A3%B6.json"},
+	
+	
+	
+	
 
 {"key":"酷影","name":"🚠酷影┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 {"key":"如意","name":"😏如意┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},   	
