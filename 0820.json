@@ -136,8 +136,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"{ 
-      \"免嗅\":\"0\",
+			"ext":"{\"免嗅\":\"0\",
       \"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",
      \"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",
      \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
@@ -145,6 +144,11 @@
      \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",
      \"分类url\":\"https://hdmoli.com/mlist/index{cateId}-{catePg}.html\"}"
 		},	
+	
+	
+	
+	
+	
 		{
 			"key": "csp_XBPQ_御龙",
 			"name": "┃御龙┃高清",
