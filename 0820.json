@@ -128,7 +128,45 @@
 {"key":"csp_xb_fg","name":"疯狗影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},	
 {"key":"骚火电影VIP","name":"骚火电影VIP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/commit/1890ebecf999b9d46965428f7e62c54a61317875/XYQBiu/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1VIP.json"},	
 
-
+{
+			"key": "csp_XBPQ_茉莉",
+			"name": "┃茉莉┃高清",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"{ 
+      \"免嗅\":\"0\",
+      \"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",
+     \"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",
+     \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+     \"简介\":\"class=\\\"left text-muted\\\"&&</span>\", 
+     \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",
+     \"分类url\":\"https://hdmoli.com/mlist/index{cateId}-{catePg}.html\"}"
+		},	
+		{
+			"key": "csp_XBPQ_御龙",
+			"name": "┃御龙┃高清",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://xduo.app/duo/json/yulong.json"
+		},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 {"key":"一龙高清","name":"一龙高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%B8%80%E9%BE%99%E9%AB%98%E6%B8%85.json"},
 {"key":"白狐","name":"白狐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/137571/%E7%99%BD%E7%8B%90.json?sign=0XbcD3sdYyGb1n_-JBA2OuMRul2LjOrZzQ2baCqBx34%3D%3A0"},
