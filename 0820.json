@@ -157,7 +157,24 @@
 		},
 	
 	
-	
+  {
+			"key":"csp_ole",
+			"name":"┃欧乐┃影院",
+			"type":4,
+			"api":"https://php.dovxs.repl.co/vod/ole.php",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+        {
+			"key":"csp_xml_可米",
+			"name":"┃可米┃影视",
+			"type":1,
+			"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},	
 	
 	
 	
