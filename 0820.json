@@ -205,7 +205,16 @@
 			"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/小狗.js"
 		},	
 	
-	
+{
+			"key": "csp_app_阿里",
+			"name": "阿里〔APP〕",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://aliys.cn:90/api.php/v1.vod"
+		},	
 	
 	
 	
