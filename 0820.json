@@ -223,6 +223,54 @@
 			"filterable": 1,
 			"ext": "http://aliys.cn:90/api.php/v1.vod"
 		},	
+{
+            "key": "csp_66",
+            "name": "🤙66影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/66%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "csp_91",
+            "name": "👇91影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/91%E5%BD%B1%E8%A7%86.json"
+        },
+{
+            "key": "csp_xBPQlgg",
+            "name": "🌳落攻阁|高清",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E8%90%BD%E6%94%BB%E9%98%81%E5%BD%B1%E8%A7%86.json",
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz2"
+        },	
+{
+            "key": "csp_ttys",
+            "name": "🦅天天影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.json"
+        },	
+	
+	
+	
+	
+	
+	
+	
 	
 
 	
