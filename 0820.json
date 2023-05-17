@@ -133,7 +133,7 @@
 
 {"key":"23TV","name":"23T丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#记录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},	
 	
-	
+{"key":"多米蓝光","name":"💧多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://http://vod.dmdh.top:5680//api.php/app/"},	
 	
 {
 "key": "csp_XBPQ_茉莉",
