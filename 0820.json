@@ -137,6 +137,24 @@
 {"key":"drpy_js_多米蓝光","name":"影视 | 多米蓝光[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%A4%9A%E7%B1%B3%5BV2%5D.js"},
 {"key":"中国蓝光网","name":"中国蓝光网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json"},	
 	
+
+	
+	
+	
+	
+{
+            "key": "csp_appys_酷影",
+            "name": "酷影",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
+        },	
+	
+	
+	
 	
 	
 {
