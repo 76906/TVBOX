@@ -154,7 +154,16 @@
             "ext": "http://kuyun.realku.cn/api.php/app/"
         },	
 	
-	
+{
+      "key": "csp_黄黄",
+      "name": "😎黄黄┃App",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },	
 	
 	
 	
