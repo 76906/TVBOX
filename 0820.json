@@ -98,7 +98,7 @@
 	
 //{"key": "4KHDR","name":"4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/YSC.jar","ext":" https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/4KHDR.json"},	
 	
-{"key":"热播之家","name":"☘️热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/rebozj.json","jar": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar"},	
+
 	
 	
 	
@@ -354,8 +354,6 @@
 	
 	
 
-{"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.json"},
-{"key": "csp_XYQHiker_魔戒影院","name":"魔戒影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E9%AD%94%E6%88%92%E5%BD%B1%E9%99%A2.json"},	
 
 {"key":"TVB云播","name":"TVB云播┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/js/TVB云播.js"},
 
