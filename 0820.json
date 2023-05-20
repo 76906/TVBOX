@@ -69,10 +69,10 @@
 
 	
 
-{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
-{"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
-{"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
-{"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
+{"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
+{"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
 
 //{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt$$$yingshi$$$abcd1234"},
 //{"key":"PanSou","name":"😽盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
@@ -80,11 +80,11 @@
 {"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
-{"key": "csp_XYQHiker_土狗搜索","name":"📀土狗搜索(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%9C%9F%E7%8B%97%E6%90%9C%E7%B4%A2.json","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
-{"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/DOVX%E6%90%9C%E7%B4%A2.json","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
-{"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(XYQ)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB.json","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
-{"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%9B%98%E6%90%9C%E7%B4%A2.json","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
+{"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key": "csp_XYQHiker_土狗搜索","name":"📀土狗搜索(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%9C%9F%E7%8B%97%E6%90%9C%E7%B4%A2.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
+{"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/DOVX%E6%90%9C%E7%B4%A2.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
+{"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(XYQ)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
+{"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%9B%98%E6%90%9C%E7%B4%A2.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},
 	
 	
 	
@@ -92,11 +92,11 @@
 	
 {"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt","jar": "http://我不是.肥猫.love:63/Jar/pandaQ230505.jar"},
 	
-{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
 	
 	
 	
-{"key": "4KHDR","name":"4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/YSC.jar","ext":" https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/4KHDR.json"},	
+//{"key": "4KHDR","name":"4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/YSC.jar","ext":" https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/4KHDR.json"},	
 	
 	
 	
@@ -313,18 +313,18 @@
 	
 	
 	
-{"key":"400影视","name":"400影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/400%E5%BD%B1%E8%A7%86.json"},	
+{"key":"400影视","name":"400影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/400%E5%BD%B1%E8%A7%86.json"},	
 
-{"key":"一龙高清","name":"一龙高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%B8%80%E9%BE%99%E9%AB%98%E6%B8%85.json"},
+{"key":"一龙高清","name":"一龙高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%B8%80%E9%BE%99%E9%AB%98%E6%B8%85.json"},
 {"key":"白狐","name":"白狐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/137571/%E7%99%BD%E7%8B%90.json?sign=0XbcD3sdYyGb1n_-JBA2OuMRul2LjOrZzQ2baCqBx34%3D%3A0"},
 {"key":"6080","name":"6080","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/137572/6080.json?sign=AcsRJQoZAc0RlSZMnNzHLaueWBvqqV2_czA2DrfKHTI%3D%3A0"},
-{"key":"TVB云播","name":"TVB云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/TVB%E4%BA%91%E6%92%AD.json"},
-{"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E8%87%AD%E8%9B%8B%E8%9B%8B.json"},
-{"key":"影视大全","name":"影视大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8.json"},
-{"key":"路人甲","name":"路人甲","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E8%B7%AF%E4%BA%BA%E7%94%B2(1).json"},
-{"key":"看看剧","name":"看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%9C%8B%E7%9C%8B%E5%89%A7.json"},
-{"key":"巨人影院","name":"巨人影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%B7%A8%E4%BA%BA%E5%BD%B1%E9%99%A2.json"},
-{"key":"京广航影视","name":"京广航影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%BA%AC%E5%B9%BF%E8%88%AA%E5%BD%B1%E8%A7%86.json"},	
+{"key":"TVB云播","name":"TVB云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/TVB%E4%BA%91%E6%92%AD.json"},
+{"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E8%87%AD%E8%9B%8B%E8%9B%8B.json"},
+{"key":"影视大全","name":"影视大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8.json"},
+{"key":"路人甲","name":"路人甲","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E8%B7%AF%E4%BA%BA%E7%94%B2(1).json"},
+{"key":"看看剧","name":"看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%9C%8B%E7%9C%8B%E5%89%A7.json"},
+{"key":"巨人影院","name":"巨人影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E5%B7%A8%E4%BA%BA%E5%BD%B1%E9%99%A2.json"},
+{"key":"京广航影视","name":"京广航影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%BA%AC%E5%B9%BF%E8%88%AA%E5%BD%B1%E8%A7%86.json"},	
 	
 	
 {"key":"大豆高清","name":"💧端木蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/duanmu.json"},		
@@ -354,8 +354,8 @@
 	
 	
 
-{"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.json"},
-{"key": "csp_XYQHiker_魔戒影院","name":"魔戒影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E9%AD%94%E6%88%92%E5%BD%B1%E9%99%A2.json"},	
+{"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.json"},
+{"key": "csp_XYQHiker_魔戒影院","name":"魔戒影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E9%AD%94%E6%88%92%E5%BD%B1%E9%99%A2.json"},	
 
 {"key":"TVB云播","name":"TVB云播┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/js/TVB云播.js"},
 
