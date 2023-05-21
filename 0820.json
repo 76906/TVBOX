@@ -1879,7 +1879,7 @@
 {"name":"解析1","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/api/?key=PGTVs4AZiCewb2UWos&url="},	
-
+{"name":"未知解析","type":1,"url":"http://xiaoxin.1080p.me/api/?key=d3a91bc81f93f81ddd5f902274ff532d&url="},	
 {"name":"110","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},	
 {"name":"113","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 {"name":"ITV","type":1,"url":"https://www.itvbox.cc/bhc.php?url="},	
