@@ -174,6 +174,39 @@
 
 //{"key": "csp_XYQHiker_中国蓝光网","name":"⭐️中国蓝光网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json","jar": "https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/custom_spider.jar"},	
 
+{"key":"csp_appys_HG影视","name":"HG影视丨AppYs","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"playUrl":"","ext":"http://bbq.1006.tk/api.php/v1.vod"},	
+	
+{
+"key": "快看资源",
+"name": "切片|快看",
+"type": 1,
+"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+"searchable": 1,
+"quickSearch": 1,
+"categories": [
+"国产剧",
+"韩国剧",
+"香港剧",
+"台湾剧",
+"欧美剧",
+"动作片",
+"科幻片",
+"战争片",
+"奇幻片",
+"喜剧片",
+"爱情片",
+"恐怖片",
+"犯罪片",
+"悬疑片",
+"惊悚片",
+"剧情片",
+"冒险片",
+"记录片",
+"综艺",
+"动漫"
+]
+},
+	
 	
 	
 	
