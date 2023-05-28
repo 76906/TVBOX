@@ -156,6 +156,9 @@
 	
 	
 {"key":"看看剧","name":"💧看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/kankanju.json"},	
+
+{"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/%E5%B0%8F%E9%B1%BC.json"},	
+	
 	
 	
 {  "key": "csp_appys_996",
