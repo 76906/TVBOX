@@ -158,7 +158,15 @@
 {"key":"看看剧","name":"💧看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/kankanju.json"},	
 	
 	
-	
+{  "key": "csp_appys_996",
+         "name": "电影996APP",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "http://dytt996.com/api.php/app/"
+    },       	
 	
 {
             "key": "csp_XYQBiu_TVB云播",
