@@ -146,12 +146,12 @@
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key": "csp_XYQHiker_酷客影视","name":"酷客影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/8lBfY/%E9%85%B7%E5%AE%A2%E5%BD%B1%E8%A7%86.json","jar": "http://w.g9.pub:66/f/AxkfE/custom_spider.jar"},	
-{"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/9mOF2/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.json","jar": "http://w.g9.pub:66/f/AxkfE/custom_spider.jar"},
-{"key": "csp_XYQHiker_9亿看看","name":"9亿看看(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/0BEUm/9%E4%BA%BF%E7%9C%8B%E7%9C%8B.json","jar": "http://w.g9.pub:66/f/AxkfE/custom_spider.jar"},	
-{"key": "csp_XYQHiker_WZ影视","name":"WZ影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/gPMhG/WZ%E5%BD%B1%E8%A7%86.json","jar": "http://w.g9.pub:66/f/AxkfE/custom_spider.jar"},	
-{"key": "csp_XYQHiker_魔戒影院","name":"魔戒影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/jPJiR/%E9%AD%94%E6%88%92%E5%BD%B1%E9%99%A2.json","jar": "http://w.g9.pub:66/f/AxkfE/custom_spider.jar"},	
-{"key": "csp_XYQHiker_188影视","name":"188影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/ByZH8/188%E5%BD%B1%E8%A7%86.json","jar": "http://w.g9.pub:66/f/AxkfE/custom_spider.jar"},	
+{"key": "csp_XYQHiker_酷客影视","name":"酷客影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/8lBfY/%E9%85%B7%E5%AE%A2%E5%BD%B1%E8%A7%86.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/9mOF2/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
+{"key": "csp_XYQHiker_9亿看看","name":"9亿看看(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/0BEUm/9%E4%BA%BF%E7%9C%8B%E7%9C%8B.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key": "csp_XYQHiker_WZ影视","name":"WZ影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/gPMhG/WZ%E5%BD%B1%E8%A7%86.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key": "csp_XYQHiker_魔戒影院","name":"魔戒影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/jPJiR/%E9%AD%94%E6%88%92%E5%BD%B1%E9%99%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key": "csp_XYQHiker_188影视","name":"188影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/ByZH8/188%E5%BD%B1%E8%A7%86.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 	
 	
 	
