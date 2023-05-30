@@ -179,6 +179,114 @@
 	
 	
 	
+{
+            "key": "csp_mengdandan",      
+			"name": "🥚┃蛋蛋┃影视",
+            "type": 3,      
+			"api": "csp_AppYsV2",
+            "searchable": 1,      
+			"quickSearch": 1,
+            "filterable": 1,      
+			"ext": "http://app.mengdandan.com/xgapp.php/v1/"
+        }, 
+	   {
+			"key": "csp_dongfang",
+			"name": "🪁┃东方┃影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.dfspapp.com/api.php/app/"
+		},
+        {
+			"key":"csp_freeok",
+			"name":"🎠┃福瑞┃影视",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"playUrl":"",
+			"ext":"https://www.freeok.vip/api.php/app/"
+		},	
+	    {
+			"key":"csp_yayaya",
+			"name":"👧┃耐菲┃影视",
+			"api":"csp_AppYsV2",
+			"type":3,
+			"filterable":1,
+			"quickSearch":1,
+			"searchable":1,
+			"ext":"https://yayayaaapp.ynf.icu/api.php/app/"
+		},
+        {
+			"key":"csp_ruyi",
+			"name":"🏑┃棍子┃影视",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://cms.maoyingshi.cc/api.php/app/"
+        },
+        {
+			"key":"csp_feifanliangzi",
+			"name":"♻️┃子凡┃影视",
+			"type": 3, 
+			"api": "csp_AppYsV2",
+			"playerType":2,
+			"ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"
+		},  
+        {
+			"key":"csp_mini库",
+			"name":"🥓┃迷你┃影库",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://www.miniku.cc/xgapp.php/v1/"
+		},
+        {
+            "key": "csp_ptg",
+            "name": "🐹┃平头┃影视",
+            "api":"csp_AppYsV2",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
+        }, 
+	{
+            "key": "csp_beijihu",      
+			"name": "🎪┃极狐┃影视",
+            "type": 3,      
+			"api": "csp_AppYsV2",
+            "searchable": 1,      
+			"quickSearch": 1,
+            "filterable": 1,      
+			"ext": "https://www.kuin.one/api.php/app/"
+        },	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 {
             "key": "csp_XYQBiu_TVB云播",
