@@ -173,6 +173,12 @@
          "filterable": 1,
          "ext": "http://dytt996.com/api.php/app/"
     },       	
+
+{"key": "csp_aidi","name": "爱迪","type": 3,"api": "csp_AppYsV2","ext": "https://aidiapp.xyz/xgapp.php/v2/"},	
+	
+	
+	
+	
 	
 {
             "key": "csp_XYQBiu_TVB云播",
