@@ -268,9 +268,36 @@
             "filterable": 1,      
 			"ext": "https://www.kuin.one/api.php/app/"
         },	
-	
-	
-	
+{
+            "key": "csp_XBPQ_野荷塘",
+            "name": "🐸┃荷塘┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/野荷塘.json"
+        },	
+{
+			"key": "csp_mingdi",
+			"name": "☀️┃大明┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/明帝.json"
+		},	
+{
+			"key": "csp_mozhatu",
+			"name": "👯‍┃魔图┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/莫扎兔.json"
+		},		
 	
 	
 	
