@@ -175,7 +175,7 @@
     },       	
 
 {"key": "csp_aidi","name": "爱迪","type": 3,"api": "csp_AppYsV2","ext": "https://aidiapp.xyz/xgapp.php/v2/"},	
-	
+{"key":"csp_appys_g","name":"DM影视","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
 	
 	
 	
