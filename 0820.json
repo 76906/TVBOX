@@ -109,7 +109,6 @@
 {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(XYQ)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghps.cc/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%9B%98%E6%90%9C%E7%B4%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key": "阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/aliyunpan.json","jar": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar"},	
-{"key":"土拨鼠","name":"🖥土拨鼠搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/tuboshu.json","jar": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar"},	
 {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E4%BA%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E6%88%91%E7%9A%84%E5%B0%8F%E7%AB%99.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%BD%91.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
@@ -154,7 +153,7 @@
 {"key": "csp_XYQHiker_188影视","name":"188影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/ByZH8/188%E5%BD%B1%E8%A7%86.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 {"key": "csp_XYQHiker_子子影视","name":"子子影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/76906/TVBOX/main/json/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key": "csp_XYQHiker_极客影院","name":"极客影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/lg4SX/%E6%9E%81%E5%AE%A2%E5%BD%B1%E9%99%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
-{"key":"大豆高清","name":"💧大豆高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/dadou.json","jar": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar"},	
+
 	
 	
 	
