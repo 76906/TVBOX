@@ -299,7 +299,21 @@
 			"ext":"http://vod.dmdh.top:5680/api.php/app/"
 		},	
 	
-	
+{
+            "key": "七猫影院",
+            "name": "七猫影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.7myy.cc/m/{cateId}-{catePg}/",
+                "搜索url": "https://www.7myy.cc/vodso/-------------/?wd={wd}&submit=",
+                "搜索数组": "stui-vodlist__media&&</ul>",
+                "播放数组": "stui-pannel&&</div>"
+            }
+        },	
 	
 	
 	
