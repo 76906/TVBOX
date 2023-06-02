@@ -175,7 +175,22 @@
 
 {"key": "csp_aidi","name": "爱迪","type": 3,"api": "csp_AppYsV2","ext": "https://aidiapp.xyz/xgapp.php/v2/"},	
 
-	
+{
+            "key": "csp_七猫影院",
+            "name": "┃七猫┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#伦理$lunli",
+                "分类url": "https://www.7myy.cc/m/{cateId}-{catePg}/",
+                "搜索url": "https://www.7myy.cc/vodso/-------------/?wd={wd}&submit=",
+                "搜索数组": "stui-vodlist__media&&</ul>",
+                "播放数组": "stui-pannel&&</div>"
+            }
+        },	
 	
 	
 {
