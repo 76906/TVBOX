@@ -161,7 +161,31 @@
 
 {"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/%E5%B0%8F%E9%B1%BC.json"},	
 	
-	
+{
+			"key": "csp_baofeng",
+			"name": "☔️┃暴风┃资源",
+			"type": 1, 
+			"api": "http://bfzy.tv/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1, 
+			"filterable": 0,
+			"categories": [
+				"国产剧",
+				"欧美剧",
+				"香港剧",
+				"韩国剧",
+				"台湾剧",
+				"日本剧",
+				"海外剧",
+				"泰国剧",
+				"动作片",
+				"爱情片",
+				"喜剧片",
+				"科幻片",
+				"战争片",
+				"动漫片"
+			]
+		},		
 	
 {  "key": "csp_appys_996",
          "name": "电影996APP",
@@ -443,7 +467,17 @@
 		},		
 	
 	
-	
+{
+      "key": "csp_YQKAPP",
+      "name": "🎉一起┃App",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-aws.11ty.top"
+    },	
 	
 	
 	
@@ -1096,7 +1130,7 @@
 {"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"Hei19","name":"🍅石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
-{"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
+
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"XBPQ_fant2","name":"🍙┃饭团┃影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影院.json"},
 {"key":"csp_555","name":"555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/555.json"},
