@@ -186,6 +186,150 @@
 				"动漫片"
 			]
 		},		
+{
+            "key": "看看",
+            "name": "看看┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340",
+            "ext": {
+                "主页url": "https://kankanju.cc",
+                "副标题": "pic-text text-right\">&&</b>",
+                "搜索模式": "1",
+                "搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=",
+                "搜索数组": "stui-vodlist__box\">&&</a>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "alt=\"&&\"",
+                "搜索副标题": "pic-text text-right\">&&</div>",
+                "搜索链接": "href=\"&&\"",
+                "搜索后缀": "/vod/",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "简介": "introduction-content\">&&</span>",
+                "线路数组": "stui-vodlist__head\"&&/h3>",
+                "线路标题": "class=\"title\"&&<",
+                "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman",
+                "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
+            }
+        },
+{
+            "key": "热播库",
+            "name": "热播┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://xhww.fun:63/小米/源/热播.json"
+        },	
+{
+            "key": "团团",
+            "name": "团团┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://xhww.fun:63/小米/源/饭团.json"
+        },
+        {
+            "key": "野马",
+            "name": "野马┃️BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://xhww.fun:63/小米/源/野马.json"
+        },
+        {
+            "key": "滋滋",
+            "name": "滋滋┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "http://xhww.fun:63/小米/源/子子.json"
+        },
+        {
+            "key": "ok",
+            "name": "Free┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "http://xhww.fun:63/小米/源/free.json"
+        },
+        {
+            "key": "臭蛋",
+            "name": "臭蛋┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://xhww.fun:63/小米/源/蛋蛋.json"
+        },
+        {
+            "key": "外剧迷",
+            "name": "外剧┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://xhww.fun:63/小米/源/外剧.json"
+        },	
+	
+{
+            "key": "PPY",
+            "name": "鸭鸭┃采集",
+            "type": 1,
+            "api": "https://www.pipiya.cc/api.php/provide/vod/",
+            "playUrl": "json:http://xhww.fun:63/%E7%B1%B3%E9%A5%AD.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	
+	{
+            "key": "csp_aidi",
+            "name": "爱迪┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+        },
+	{
+            "key": "酷影",
+            "name": "泰泰┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+	
+	{
+            "key": "3412",
+            "name": "熊熊┃APP",
+            "type": 1,
+            "api": "https://v.3412.net.cn/macapi.php/provide/vod",
+            "playUrl": "https://player.i597.cc/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 {  "key": "csp_appys_996",
          "name": "电影996APP",
