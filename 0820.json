@@ -218,7 +218,7 @@
             "name": "热播┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "http://xhww.fun:63/小米/源/热播.json"
+            "ext": "http://xhww.fun:63/小米/源/热播.json","jar": "http://xhww.fun:63/小米/小暴脾气.jar"
         },	
 {
             "key": "团团",
