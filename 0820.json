@@ -592,7 +592,6 @@
             "filterable":1,
             "ext":"https://tv.ysle.cn/api.php/app/"
         },	
-	
 {
 			"key":"csp_xml_野熊",
 			"name":"🐻┃野熊┃影视",
@@ -601,8 +600,19 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"playUrl":"https://player.3412.net.cn/?url="
+			"playUrl":"https://player.i597.cc/?url="
+		},
+{
+			"key": "csp_XBPQ_jubaibai",
+			"name": "🦢┃剧白┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/剧白白.json"
 		},		
+	
 	
 	
 {
