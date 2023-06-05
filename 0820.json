@@ -312,10 +312,63 @@
             "ext": "http://xhww.fun:63/小米/源/热播.json"
      },
 	
-	
-	
-	
-	
+{
+            "key": "熊熊",
+            "name": "熊熊┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "http://xhww.fun:63/小米/源/熊熊.json"
+        },	
+{
+            "key": "蚂蚁",
+            "name": "蚂蚁┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"
+        },	
+{
+            "key": "利播",
+            "name": "利播┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://xhww.fun:63/小米/源/利播.json"
+        },	
+{
+            "key": "猫猫",
+            "name": "猫猫｜BPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://v.rjumao.com/index.php/ajax/data?mid=1&tid=1&page=1&limit=20",
+                "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$https://v.rjumao.com/",
+                "强制解析": "0",
+                "图片代理": "0",
+                "二次截取": "",
+                "数组": "{\"v&&}",
+                "图片": "vod_pic\":\"&&\"",
+                "标题": "vod_name\":\"&&\"",
+                "副标题": "vod_version\":\"&&\"+vod_remarks\":\"&&\"",
+                "链接": "https://v.rjumao.com/index.php/vod/detail/id/+od_id\":&&,+.html",
+                "分类url": "https://v.rjumao.com/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
+                "嗅探词": ".mp4#.m3u8",
+                "分类": "请搜索看$1",
+                "搜索模式": "1",
+                "搜索url": "https://v.rjumao.com/index.php/vod/search.html?wd={wd}",
+                "搜索数组": "public-list-exp\"&&thumb-else cor5 hide\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索链接前缀": "https://v.rjumao.com/",
+                "搜索标题": "thumb-txt cor4 hide\">&&</div",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索副标题": "class=\"public-list-prb hide ft2\">&&</span",
+                "播放链接前缀": "https://v.rjumao.com/",
+                "跳转播放链接": "https://b.rzyl.site/player/analysis.php?v=+link_pre*url\":\"&&\"",
+                "线路数组": "<a class=\"swiper-slide\"><i&&</a>"
+            }
+        },	
 	
 	
 	
@@ -807,7 +860,7 @@
 	
 	
 
-{"key":"酷影","name":"🚠酷影┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
+
 {"key":"如意","name":"😏如意┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},   	
 
 {"key": "csp_明帝","name": "🅱️明帝影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.cc:88/xBPQ/明帝影视.json"},
@@ -903,7 +956,6 @@
 {"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_xigua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://weixine.net/py/py_xigua.py"},
 {"key":"HDmoli","name":"🦹魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/HDmoli.json","jar": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar"},
 {"key":"电影盒子","name":"🎞电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/dianyinghezi.json"},
-{"key":"csp_XYQBiu_磁力熊","name":"🐻磁力熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cilixiong.json"},
 {"key":"UM影院","name":"⏺UM影院","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/um.js"},
 {"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/yanaifei.js"},
 {"key":"Vidhub视频","name": "Vidhub视频库","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/sub/Vidhub.json"},	
