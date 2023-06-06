@@ -405,13 +405,7 @@
       "playerType": 2,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },	
- {
-      "key": "csp_mianhua",
-      "name": "🐔棉花",
-      "api": "csp_HideMianHua",
-      "type": 3,
-      "ext": "https://api.wfrenjia.com/api/$$$NjQyNmE1MzUyYzM5MzllOQ==$$$ODM4NzM2MDRjZmMyNDRlOQ==","jar": "http://hz752.love:63/jar/tk.jar"
-    },	
+
 {
       "key": "白狐",
       "name": "🦊白狐┃XBPQ",
