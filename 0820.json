@@ -392,6 +392,89 @@
 	
 	
 	
+
+	
+	
+	
+	
+{
+      "key": "米酷",
+      "name": "🌾米酷",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },	
+ {
+      "key": "csp_mianhua",
+      "name": "🐔棉花",
+      "api": "csp_HideMianHua",
+      "type": 3,
+      "ext": "https://api.wfrenjia.com/api/$$$NjQyNmE1MzUyYzM5MzllOQ==$$$ODM4NzM2MDRjZmMyNDRlOQ=="
+    },	
+{
+      "key": "白狐",
+      "name": "🦊白狐┃XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": {
+        "分类": "电影$1#连续剧$2#动漫$3#综艺$4",
+        "分类url": "https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html",
+        "类型": "1--动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11||2--国产剧$12#港台剧$13#韩国剧$14#欧美剧$15#台湾剧$16#日本剧$17#海外剧$18#泰国剧$24||4--大陆综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28||3--国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32||空"
+      }
+    },
+    {
+      "key": "人人",
+      "name": "👷人人┃XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": {
+        "数组": "class=\"module-item\"&&</div>",
+        "分类": "影视库$all",
+        "分类url": "https://www.renren.pro/list/{cateId}?page={catePg}"
+      }
+    },	
+{
+      "key": "91影院",
+      "name": "🍻91影院┃XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://hz752.love:63/XBPQ/91影院.json"
+    },	
+{
+      "key": "3377",
+      "name": "🎑3377┃XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://hz752.love:63/XBPQ/3377影视.json"
+    },
+    {
+      "key": "喵影视",
+      "name": "🐱喵影视┃xBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://hz752.love:63/XBPQ/喵影视.json"
+    },	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
