@@ -448,14 +448,14 @@
       "name": "🎑3377┃XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "http://hz752.love:63/XBPQ/3377影视.json"
+      "ext": "http://hz752.love:63/XBPQ/3377影视.json","jar": "http://hz752.love:63/jar/tk.jar"
     },
     {
       "key": "喵影视",
       "name": "🐱喵影视┃xBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "http://hz752.love:63/XBPQ/喵影视.json"
+      "ext": "http://hz752.love:63/XBPQ/喵影视.json","jar": "http://hz752.love:63/jar/tk.jar"
     },	
 	
 	
