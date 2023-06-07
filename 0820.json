@@ -93,20 +93,11 @@
 
 
 	
-{
-            "key": "纸条",
-            "name": "🖥纸条搜索",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,"jar": "https://gitee.com/lekanbox/App/raw/master/YSC.jar"
-        },	
-	
+
 	
 	
 
-//{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
+{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 {"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
@@ -128,7 +119,7 @@
 {"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E8%B1%86%E8%B1%86%E9%A3%9E.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/76906/TVBOX/main/APP/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 {"key": "csp_XYQHikerAL_橘子盘搜","name":"📀橘子盘搜(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/76906/TVBOX/main/APP/%E6%A9%98%E5%AD%90%E7%9B%98%E6%90%9C.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
-	
+{"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/76906/TVBOX/main/json/%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%90%9C%E7%B4%A2.json?btwaf=51517780","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 	
 	
 	
