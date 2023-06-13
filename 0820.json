@@ -141,7 +141,7 @@
 	
 	
 	
-{"key":"csp_Miaobo","name":"Ⓜ️秒播","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},	
+	
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},	
 {"key":"csp_XBPQ_乐猪","name":"💢乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"},	
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -520,17 +520,7 @@
 			"filterable": 1,
 			"ext": "https://www.dfspapp.com/api.php/app/"
 		},
-        {
-			"key":"csp_freeok",
-			"name":"🎠┃福瑞┃影视",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"playUrl":"",
-			"ext":"https://www.freeok.vip/api.php/app/"
-		},	
+     
 	    {
 			"key":"csp_yayaya",
 			"name":"👧┃耐菲┃影视",
@@ -551,14 +541,7 @@
 			"filterable":1,
 			"ext":"http://cms.maoyingshi.cc/api.php/app/"
         },
-        {
-			"key":"csp_feifanliangzi",
-			"name":"♻️┃子凡┃影视",
-			"type": 3, 
-			"api": "csp_AppYsV2",
-			"playerType":2,
-			"ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"
-		},  
+      
         {
 			"key":"csp_mini库",
 			"name":"🥓┃迷你┃影库",
@@ -590,36 +573,9 @@
 			"ext": "https://www.kuin.one/api.php/app/"
         },	
 
-{
-			"key": "csp_mingdi",
-			"name": "☀️┃大明┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/明帝.json"
-		},	
-{
-			"key": "csp_mozhatu",
-			"name": "👯‍┃魔图┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/莫扎兔.json"
-		},		
-{
-			"key":"csp_appys_多米蓝光",
-			"name":"💧┃多米┃蓝光",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://vod.dmdh.top:5680/api.php/app/"
-		},	
+
+	
+
 	
 
 	
@@ -675,11 +631,11 @@
 
 	
 	
-{"key":"23TV","name":"23T丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#记录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},	
+
 	
 
 
-{"key":"飞云","name":"🐲腾飞┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},	
+
 	
 
 
@@ -729,26 +685,8 @@
             "filterable":1,
             "ext":"https://tv.ysle.cn/api.php/app/"
         },	
-{
-			"key":"csp_xml_野熊",
-			"name":"🐻┃野熊┃影视",
-			"type":1,
-			"api":"https://v.3412.net.cn/macapi.php/provide/vod",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"playUrl":"https://player.i597.cc/?url="
-		},
-{
-			"key": "csp_XBPQ_jubaibai",
-			"name": "🦢┃剧白┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/剧白白.json"
-		},		
+
+
 	
 	
 	
@@ -780,27 +718,10 @@
       "searchable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },	
-{
-      "key": "红红",
-      "name": "🌈红红┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://bbq.1006.tk/icciu_api.php/v1.vod"
-    },	
+
 	
 	
-{
-"key": "csp_XBPQ_茉莉",
-"name": "┃茉莉┃高清",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext":"{\"免嗅\":\"0\",\"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",\"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"简介\":\"class=\\\"left text-muted\\\"&&</span>\", \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",\"分类url\":\"https://hdmoli.com/mlist/index{cateId}-{catePg}.html\"}"},		
+
 	
 	
 	
@@ -816,15 +737,7 @@
 		},
 	
 	
-  {
-			"key":"csp_ole",
-			"name":"┃欧乐┃影院",
-			"type":4,
-			"api":"https://php.dovxs.repl.co/vod/ole.php",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
+ 
         {
 			"key":"csp_xml_可米",
 			"name":"┃可米┃影视",
@@ -844,16 +757,7 @@
 			"playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
 		},	
 	
-{
-			"key": "js_电影先生",
-			"name": "🤵┃电影┃先生",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/js/电影先生.js"
-		},	
+
 {
 			"key": "js_小狗影院",
 			"name": "🐶┃小狗┃影院",
@@ -1111,15 +1015,8 @@
 	
 
 	
-{"key":"速搜","name":"🍓速搜┃影院","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/速搜影院.js"},
-{"key":"皮皮鸭","name":"🍓皮皮┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/皮皮鸭.js"},
-{"key":"米爱影视","name":"🍓米爱┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/米爱.js"},
-{"key":"七年影视","name":"🍓七年┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/七年.js"},
-{"key":"花猫","name":"🍓花猫┃影视","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/花猫TV.js"},
-{"key":"思古","name":"🤡思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/思古.json"},
-{"key":"vofx","name":"🤡Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/voflix.json"},	
-{"key":"wz","name":"🤡王者┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/wz.json"},	
-{"key":"奇优","name":"🤡奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/奇优.json"},	
+
+
 
 
 	
