@@ -136,7 +136,16 @@
 	
 {"key":"飞云","name":"🚁飞云┃资源","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://www.lfytyl.com/api.php/app/"},    	
 
-	
+{
+            "key": "csp_AppYsV2_影探",
+            "name": "┃影探┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.lfytyl.com/api.php/app/"
+        },	
 
 	
 	
