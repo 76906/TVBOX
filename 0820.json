@@ -166,7 +166,7 @@
 {"key": "csp_XYQHiker_子子影视","name":"子子影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/76906/TVBOX/main/json/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},
 {"key": "csp_XYQHiker_极客影院","name":"极客影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/lg4SX/%E6%9E%81%E5%AE%A2%E5%BD%B1%E9%99%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 {"key":"WZ影视","name":"WZ影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/76906/TVBOX/main/json/WZ%E5%BD%B1%E8%A7%86_%E8%B5%84%E6%BA%90%E4%B8%8D%E9%94%99_%E8%93%9D%E9%AD%94%E4%BF%AE%E5%A4%8D%E7%89%88_XBPQ.json?btwaf=8102308"},
-	
+{"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/L769061082/tvbox/raw/branch/main/json/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 	
 	
 	
