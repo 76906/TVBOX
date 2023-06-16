@@ -206,20 +206,15 @@
 {"key":"策驰","name":"🕊️策驰┃影视","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/策驰.json"},	
 	
 {
-            "key": "API_饭后官采",
-            "name": "饭后┃官采",
-            "type": 1,
-            "playerType": 1,
-            "api": "http://zycj.jiexi.plus/api.php/provide/vod/?ac=list",
-            "playUrl": "json:https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=",
-            "categories": [
-                "国产剧",
-                "港台剧",
-                "欧美剧",
-                "日韩剧",
-                "动漫"
-            ]
-        },	
+            "key": "js_稀饭",
+            "name": "🍚┃稀饭┃影视",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/稀饭.js"
+        },
 	
 	
 	
