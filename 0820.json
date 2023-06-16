@@ -243,44 +243,27 @@
             "name": "看看┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340",
             "ext": {
                 "主页url": "https://kankanju.cc",
                 "副标题": "pic-text text-right\">&&</b>",
                 "搜索模式": "1",
-                "搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=",
-                "搜索数组": "stui-vodlist__box\">&&</a>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "alt=\"&&\"",
-                "搜索副标题": "pic-text text-right\">&&</div>",
-                "搜索链接": "href=\"&&\"",
-                "搜索后缀": "/vod/",
+                "搜索url": "https://kankanju.cc/rss.xml?wd={wd}",
+                "搜索图片": "http://xhww.fun:63/小米/2.jpg",
+                "嗅探词": "huoshanvod.com#mp4#m3u8",
                 "影片类型": "<div class=\"module-info-tag\">&&立即播放",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
                 "简介": "introduction-content\">&&</span>",
-                "线路数组": "stui-vodlist__head\"&&/h3>",
-                "线路标题": "class=\"title\"&&<",
-                "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman",
+                "线路数组": "data-toggle=&&</li>",
+                "跳转播放链接": "https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"",
+                "二次跳转播放链接": "url*\"&&\"",
+                "线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#]",
+                "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
                 "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
             }
         },
 
-{
-            "key": "团团",
-            "name": "团团┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http://xhww.fun:63/小米/源/饭团.json"
-        },
-        {
-            "key": "野马",
-            "name": "野马┃️BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http://xhww.fun:63/小米/源/野马.json"
-        },
-        {
+       {
             "key": "滋滋",
             "name": "滋滋┃BPQ",
             "type": 3,
@@ -288,6 +271,46 @@
             "playerType": "1",
             "ext": "http://xhww.fun:63/小米/源/子子.json"
         },
+	
+{
+            "key": "兔兔",
+            "name": "兔兔｜BPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "api": "csp_XBPQ",
+            "ext": "http://xhww.fun:63/小米/源/兔兔.json"
+        },
+	
+ {
+            "key": "云云资源",
+            "name": "云云┃4K",
+            "type": 1,
+            "api": "http://1.ahailove.cn:23450/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=",
+            "categories": [
+                "电影",
+                "连续剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+	
+{
+            "key": "零度",
+            "name": "零度┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "http://xhww.fun:63/小米/源/零度.json"
+        },	
+	
+	
+	
+	
         {
             "key": "ok",
             "name": "Free┃BPQ",
