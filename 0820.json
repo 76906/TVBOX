@@ -205,7 +205,21 @@
 {"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/来看点播.json"},	
 {"key":"策驰","name":"🕊️策驰┃影视","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/策驰.json"},	
 	
-	
+{
+            "key": "API_饭后官采",
+            "name": "饭后┃官采",
+            "type": 1,
+            "playerType": 1,
+            "api": "http://zycj.jiexi.plus/api.php/provide/vod/?ac=list",
+            "playUrl": "json:https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=",
+            "categories": [
+                "国产剧",
+                "港台剧",
+                "欧美剧",
+                "日韩剧",
+                "动漫"
+            ]
+        },	
 	
 	
 	
@@ -2444,7 +2458,16 @@
     
 
 {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/api/?key=PGTVs4AZiCewb2UWos&url="},	
-
+{
+            "name": "莫伤柯基",
+            "type": 1,
+            "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "Dart/2.18 (dart:io)"
+                }
+            }
+        },
 	
 {
             "name": "落叶🍂",
