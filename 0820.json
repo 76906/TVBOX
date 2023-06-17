@@ -134,18 +134,7 @@
 {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 	
 	
-{"key":"飞云","name":"🚁飞云┃资源","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://www.lfytyl.com/api.php/app/"},    	
 
-{
-            "key": "csp_AppYsV2_影探",
-            "name": "┃影探┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.lfytyl.com/api.php/app/"
-        },	
 {
       "key": "csp_DuoX",
       "name": "💢多线┃APP",
