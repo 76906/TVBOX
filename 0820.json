@@ -165,7 +165,16 @@
 			"filterable": 1, 
 			"ext": "http://xn--yeta099v.online:66/api.php/app/" 
 		},			
-	
+{
+      "key": "飞速",
+      "name": "飞速┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://get.lfytyl.com/api.php/app/"
+    },	
 	
 	
 	
