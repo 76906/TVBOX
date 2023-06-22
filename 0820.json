@@ -165,16 +165,7 @@
 			"filterable": 1, 
 			"ext": "http://xn--yeta099v.online:66/api.php/app/" 
 		},			
-{
-      "key": "飞速",
-      "name": "飞速┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://get.lfytyl.com/api.php/app/"
-    },	
+
 	
 	
 	
@@ -195,7 +186,7 @@
 {"key": "csp_XYQHiker_极客影院","name":"极客影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/lg4SX/%E6%9E%81%E5%AE%A2%E5%BD%B1%E9%99%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 {"key":"WZ影视","name":"WZ影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/76906/TVBOX/main/json/WZ%E5%BD%B1%E8%A7%86_%E8%B5%84%E6%BA%90%E4%B8%8D%E9%94%99_%E8%93%9D%E9%AD%94%E4%BF%AE%E5%A4%8D%E7%89%88_XBPQ.json?btwaf=8102308"},
 {"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/L769061082/tvbox/raw/branch/main/json/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
-	
+{"key": "csp_XYQHiker_98影院","name":"98影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/76906/TVBOX/main/json/98%E5%BD%B1%E9%99%A2.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 	
 	
 {"key":"轻简","name":"✂️简简┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
@@ -455,8 +446,7 @@
             }
         },	
 	
-{"key": "csp_appys_xc", "name": "小城[凡凡]","type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"},	
-	
+
 	
 	
 	
