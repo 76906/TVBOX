@@ -135,6 +135,42 @@
 	
 	
 
+{
+            "key": "csp_Lan",
+            "name": "🧑‍🎓Lan同学｜COPY",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "filterable": 1,
+            "ext": "https://lantongxue.cc/TVBOX/json/fy.json",
+            "jar": "https://lantongxue.cc/0.jar"
+        },
+
+{
+            "key": "csp_appys_酷影",
+            "name": "🆒酷影｜影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ys.realdou.cn/api.php/app/"
+        },
+        {
+            "key": "drpy_js_yzzz",
+            "name": "➡️柚子｜APP",
+            "type": 3,
+            "playerType": 1,
+            "api": "https://lantongxue.cc/TVBOX/lib/drpy2.min.js",
+            "ext": "https://lantongxue.cc/TVBOX/js/yz.js"
+        },
+
+
+	
+	
 
 {
             "key": "js_童趣",
