@@ -190,13 +190,6 @@
       "type": 3,
       "api": "http://xzam.cn/ikan.js"
     },
- {
-      "key": "圣城",
-      "name": "🎃圣城┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xzam.cn/XBPQ/圣城.json","jar": "http://xzam.cn/jar/7.jar"
-    },
 {
       "key": "看看剧",
       "name": "🎅看看┃影视",
