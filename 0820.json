@@ -969,20 +969,7 @@
 	
 	
 
-{"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_xigua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://weixine.net/py/py_xigua.py"},
-{"key":"HDmoli","name":"🦹魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rul2oe7c4.bkt.clouddn.com/sub/HDmoli.json","jar": "http://rul2oe7c4.bkt.clouddn.com/YSC.jar"},
-{"key":"电影盒子","name":"🎞电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/dianyinghezi.json"},
-{"key":"UM影院","name":"⏺UM影院","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/um.js"},
-{"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/yanaifei.js"},
-{"key":"Vidhub视频","name": "Vidhub视频库","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/sub/Vidhub.json"},	
-{"key":"素白白","name":"💮素白白","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/subaibai.js"},	
-{"key":"人人影视","name":"🍀人人影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/renren.js"},
-{"key":"看看电影","name":"🍀看看电影","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/kankandianying.js"},
-{"key":"兄弟影视","name":"🍀兄弟影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/xiongdiyingshi.js"},
-{"key":"大师兄影视","name":"🍀大师兄影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/dashixiongyingshi.js"},
-{"key":"创艺影视","name":"🍀创艺影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/chuangyi.js"},
-{"key":"101影院","name":"🎞101影院","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/l0l.js"},
-{"key":"奥特","name":"🐼奥特","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/Auete.js"},	
+
 	
 
 
