@@ -195,7 +195,7 @@
       "name": "🎃圣城┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "http://xzam.cn/XBPQ/圣城.json"
+      "ext": "http://xzam.cn/XBPQ/圣城.json","jar": "http://xzam.cn/jar/7.jar"
     },
 {
       "key": "看看剧",
