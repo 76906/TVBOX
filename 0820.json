@@ -190,6 +190,31 @@
       "type": 3,
       "api": "http://xzam.cn/ikan.js"
     },
+ {
+      "key": "圣城",
+      "name": "🎃圣城┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xzam.cn/XBPQ/圣城.json"
+    },
+{
+      "key": "看看剧",
+      "name": "🎅看看┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xzam.cn/XBPQ/看看剧.json"
+    },	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 {"key":"csp_ym","name":"😽新夜猫┃4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 
 
