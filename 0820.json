@@ -233,6 +233,15 @@
       "api": "csp_XBPQ",
       "ext": "http://xzam.cn/XBPQ/看看剧.json"
     },	
+
+{
+      "key": "速看",
+      "name": "🌅速看┃测试",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xzam.cn/XBPQ/速看.json"
+    },
+
 	
 	
 {
