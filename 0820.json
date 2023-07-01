@@ -253,7 +253,12 @@
 		},	
 {"key": "柚子","name": "柚子丨APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"ext": "http://111.173.89.201:1314/api.php/app/"},	
 	
-	
+ {
+      "key": "暴风",
+      "name": "🌀暴风┃资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/"
+    },	
 	
 	
 	
