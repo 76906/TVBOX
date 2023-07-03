@@ -622,7 +622,57 @@
       ],
       "ext": "http://ys.realdou.cn/api.php/app/"
     },
-	
+ {
+      "key": "csp_aidi",
+      "name": "爱迪┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },	
+ {
+      "key": "瑞丰",
+      "name": "辣辣┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+ {
+      "key": "测试2",
+      "name": "可可┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
+    {
+      "key": "测试",
+      "name": "落落┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://luoye.shop:66/api.php/app/"
+    },
+
+
+
+
+
+
+
+
+
+
+
 
 	
 	
