@@ -135,18 +135,7 @@
 	
 	
 
-{
-            "key": "csp_Lan",
-            "name": "🧑‍🎓Lan同学｜COPY",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 1,
-            "filterable": 1,
-            "ext": "https://lantongxue.cc/TVBOX/json/fy.json",
-            "jar": "https://lantongxue.cc/0.jar"
-        },
+
 
 {
             "key": "csp_appys_酷影",
@@ -218,7 +207,7 @@
       "api": "https://xzam.cn/lib/drpy2.min.js",
       "ext": "https://xzam.cn/js/%E6%9D%A5%E7%B1%B3%E5%BD%B1%E8%A7%86.js"
     },
-{"key": "csp_appys_影探","name": "❤影探主接口|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://liling.lfytyl.com/api.php/app/"},
+
 
 {
       "key": "爱看bot",
