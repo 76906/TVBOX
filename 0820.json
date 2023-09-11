@@ -235,8 +235,7 @@
 
 
 
-{"key": "csp_XPathAli_蚂蚁","name": "🧲蚂蚁4K☆磁力", "type": 3, "api": "csp_XPathAli", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/w769061082/tvbox2/raw/main/json/%E8%9A%82%E8%9A%814K.json","jar":"https://gitee.com/w769061082/tvbox2/raw/main/jar/app.jar"},
-{"key": "csp_AppYsV2如意","name": "如意┃4k","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"https://gitee.com/w769061082/tvbox2/raw/main/jar/app.jar"},
+
 
 
 {"key": "csp_AppYsV2_光影猫","name": "光影猫☆影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
@@ -1094,8 +1093,7 @@
 {"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/9mOF2/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.json","jar": "https://gitee.com/w769061082/tvbox2/raw/main/APP/custom_spider.jar"},
 //{"key": "csp_XYQHiker_WZ影视","name":"WZ影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/gPMhG/WZ%E5%BD%B1%E8%A7%86.json","jar": "https://raw.iqiq.io/76906/TVBOX/main/APP/custom_spider.jar"},	
 {"key": "csp_XYQHiker_极客影院","name":"极客影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/f/lg4SX/%E6%9E%81%E5%AE%A2%E5%BD%B1%E9%99%A2.json","jar": "https://gitee.com/w769061082/tvbox2/raw/main/APP/custom_spider.jar"},	
-{"key":"WZ影视","name":"WZ影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/w769061082/tvbox2/raw/main/json/WZ%E5%BD%B1%E8%A7%86_%E8%B5%84%E6%BA%90%E4%B8%8D%E9%94%99_%E8%93%9D%E9%AD%94%E4%BF%AE%E5%A4%8D%E7%89%88_XBPQ.json"},
-{"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/L769061082/tvbox/raw/branch/main/json/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json","jar": "https://gitee.com/w769061082/tvbox2/raw/main/APP/custom_spider.jar"},	
+
 	
 	
 	
