@@ -53,6 +53,7 @@
 {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
+{"name":"磁力广告","hosts":["magnet"],"regex":["更多","社 區","x u u","最 新","直 播","更 新","社 区","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
 {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]}
 ],
 
@@ -1137,15 +1138,7 @@
 
 
 //-------小米线路部分资源
-  {
-      "key": "348",
-      "name": "348┃BPQ",
-      "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/348.json"
-    }, 
+
   
   
    {
@@ -1169,14 +1162,7 @@
       "changeable": 1,
       "ext": "http://饭太硬.top/tv/nmys.json"
     },
-   {
-      "key": "360",
-      "name": "360┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "ext": "http://xhww.fun:63/小米/源/360.json"
-    },
+  
     {
       "key": "csp_Bili",
       "name": "哔哔┃合集",
@@ -1191,20 +1177,7 @@
       "changeable": 0,
       "ext": "http://饭太硬.top/tv/bilibili.json"
     },
-    {
-      "key": "csp_Biliych",
-      "name": "哔哔┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/tv/biliych.json"
-    },
+  
  {
       "key": "黑狐",
       "name": "黑狐┃BPQ",
@@ -1281,68 +1254,6 @@
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
-      "key": "BQ",
-      "name": "️八千┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://154.31.2.112:8869/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "蚂蚁",
-      "name": "️蚂蚁┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://wushutvcms.byzz.top/api.php/app/"
-    },
-    {
-      "key": "蘑菇2",
-      "name": "️蘑菇┃APP",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://11111111.moguys.xyz/api.php/app/"
-    },
-    {
-      "key": "落落",
-      "name": "🗯️落落┃APP",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
-    },
-    {
-      "key": "素白",
-      "name": "素白┃BPQ",
-      "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/素白.json"
-    },
-    {
-      "key": "蘑菇",
-      "name": "蘑菇┃BPQ",
-      "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/蘑菇.json"
-    },
-    {
       "key": "YQK_spider",
       "name": "一起┃APP",
       "api": "csp_YQKAPP",
@@ -1378,24 +1289,7 @@
         "分类url": "http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
       }
     },
- {
-      "key": "耐看",
-      "name": "耐看┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/来看.json"
-    },
-    {
-      "key": "星辰",
-      "name": "星辰┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/星辰.json"
-    },
+
     {
       "key": "看看",
       "name": "看看┃BPQ",
@@ -1438,15 +1332,7 @@
         "搜索数组": "<li class=\"active clearfix&&</li"
       }
     },
-    {
-      "key": "零度",
-      "name": "零度┃BPQ",
-      "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/小刀.json"
-    },
+ 
     {
       "key": "莱米",
       "name": "莱米┃BPQ",
@@ -1560,39 +1446,7 @@
         "分类url": "https://jojo.bdys.top/video/{cateId}?page={catePg}&size=18;;u0"
       }
     },
-    {
-      "key": "热播库",
-      "name": "热播┃BPQ",
-      "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/热播.json"
-    },
-    {
-      "key": "石榴",
-      "name": "石榴┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/石榴.json"
-    },
-    {
-      "key": "虎虎",
-      "name": "虎虎┃BPQ",
-      "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/虎虎.json"
-    },
-    {
-      "key": "利播",
-      "name": "利播┃BPQ",
-      "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/利播.json"
-    },
+
     {
       "key": "串串",
       "name": "串串┃️BPQ",
