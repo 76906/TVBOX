@@ -377,7 +377,37 @@
       }
     },
 
+{
+      "key": "csp_XBPQ_VS影视",
+      "name": "VS☆短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.91doutu.com/vodlist/{cateId}_____hits_{catePg}.html",
+        "分类": "短剧$dj#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+      }
+    },
+    {
+      "key": "csp_XBPQ_泡泡网剧",
+      "name": "泡泡☆网剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.paojuw.com/lid/{cateId}.html",
+        "分类": "大陆剧$1#香港剧$2#韩国剧$5#台湾剧$6#欧美剧$7#日本剧$8#泰国剧$9"
+      }
+    },
 
+
+
+
+	
 
 
 {
