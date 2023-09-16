@@ -1282,15 +1282,6 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
     },  
-  {
-      "key": "csp_77",
-      "name": "七七┃手机",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     {
       "key": "探探",
       "name": "🏵影探┃App",
