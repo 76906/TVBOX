@@ -509,6 +509,21 @@
 {"key":"csp_SixV","name":"🧲新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://www.xb6v.com/"},
 {"key": "csp_XYQHiker_高清MP4","name":"🧲高清MP4(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E9%AB%98%E6%B8%85MP4.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},
 
+
+{"key":"drpy_js_大师兄影视","name":"影视 | 大师兄影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js"},
+{"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ddys.js"},
+{"key": "drpy_抖音追忆","name": "抖音☆追忆","type": 3,"api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/js/%E6%8A%96%E9%9F%B3%E8%BF%BD%E5%BF%86.js"},
+
+
+
+
+
+
+
+
+
+
+	
     {
       "key": "qiqi资源",
       "name": "2K琪琪┃切片",
@@ -1023,10 +1038,8 @@
  
 
 
-{"key":"drpy_js_硬弹","name":"影视 | 硬弹[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://gitee.com/w769061082/tvbox2/raw/main/js/%E7%A1%AC%E5%BC%B9%5BV2%5D.js"},
-{"key":"drpy_js_大师兄影视","name":"影视 | 大师兄影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js"},
-{"key":"drpy_js_优秀","name":"影视 | 优秀[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://gitee.com/w769061082/tvbox2/raw/main/js/%E4%BC%98%E7%A7%80%5BV2%5D.js"},
-{"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ddys.js"},
+
+
  
 
 
