@@ -55,17 +55,6 @@
 
 "rules": [ {"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]}, {"host":"*", "rule":["huoshan.com", "/item/video/"]}, {"host":"*", "rule":["http((?!http).){12,}?\\.(m3u8|mp3|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]}, {"host":"*", "rule":["http((?!http).){12,}\\.(m3u8|mp3|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]} ],
 
-"rules":[
-{"name":"暴风","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.92,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name": "星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
-{"name":"磁力广告","hosts":["magnet"],"regex":["更多","社 區","x u u","最 新","直 播","更 新","社 区","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
-{"name": "极速","hosts": ["jszy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]}
-],
-
 "rules": [
     {
       "name": "海外看",
@@ -128,7 +117,9 @@
         "item_id="
       ]
     },
-    {
+{"name":"磁力广告","hosts":["magnet"],"regex":["更多","社 區","x u u","最 新","直 播","更 新","社 区","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
+{"name": "极速","hosts": ["jszy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},    
+	{
       "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
