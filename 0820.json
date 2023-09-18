@@ -488,7 +488,17 @@
         },
  {"key": "jszy","name": "极速资源 ","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 
-	
+ {
+      "key": "小姨",
+      "name": "业余┃玩偶姨妹",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "group": "tvbox",
+      "isActive": true,
+      "status": true,
+      "resource": 8483,
+      "id": 1528
+    },	
 
 
 {
