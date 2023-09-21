@@ -460,7 +460,35 @@
         },
 {"key": "jszy","name": "极速资源 ","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 
-
+{
+"key": "suoni",
+      "name": "索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "playUrl": "https://",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+            "动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "国产剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "港剧",
+            "台剧",
+            "海外剧",
+            "大陆综艺",
+            "国产动漫"
+      ]
+},
 
 	
  {
