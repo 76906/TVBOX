@@ -570,11 +570,16 @@
 {"key": "csp_AppYsV2_迷你库","name": "👶迷你☆影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v1/"},
 {"key": "csp_AppYsV2_光影猫","name": "👶影猫☆影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
 
+
+
+	
 {"key":"csp_AppYsV2_腐剧","name":"🎅腐剧☆TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"}, 
 {"key": "csp_XBPQ_VS影视", "name": "🎅VS☆短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "https://www.91doutu.com/vodlist/{cateId}_____hits_{catePg}.html","分类": "短剧$dj#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 {"key": "csp_XBPQ_泡泡网剧", "name": "🎅泡泡☆网剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url":"https://www.paojuw.com/lid/{cateId}.html","分类": "大陆剧$1#香港剧$2#韩国剧$5#台湾剧$6#欧美剧$7#日本剧$8#泰国剧$9"}},
 {"key":"csp_Bili_哔哩影剧","name":"🎅哔哩☆影剧","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://la.kstore.space/download/4927/Axkl/json/哔哩影剧.json"},
-
+{"key": "drpy_追忆","name": "👶追忆☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/追忆影视.js"},
+{"key": "drpy_先生","name": "👶电影☆先生","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/电影先生.js"},
+{"key": "csp_XBPQ_全看", "name": "👶全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://download.kstore.space/download/4927/Axkl/json/全看网.json"},
 
 
 
