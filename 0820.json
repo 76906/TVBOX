@@ -357,23 +357,6 @@
 {"key":"push_agent","name":"推送|lf_push","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_pushagent_min.js"},
 {"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_p2p2_min.js","ext":"18+"},	
 
-	
- {
-      "key": "索尼",
-      "name": "索尼 ",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "快帆",
-      "name": "快帆",
-      "type": 1,
-      "api": "https://api.kuaifan.tv/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
 
 
 
@@ -524,41 +507,6 @@
             }
         },
 {"key": "jszy","name": "极速资源┃ ","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","style":{ "type":"oval","ratio": 0.75},"searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
-{ "key": "49zy",
-      "name": " ‍49资源",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片",
-        "动画片",
-        "犯罪片",  
-        "韩国剧",
-        "动漫",
-        "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
-        "日剧",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "海外剧"]
-    },
 
 
 	
