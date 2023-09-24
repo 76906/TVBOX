@@ -3026,6 +3026,124 @@
             ]
         }, 
 
+
+{
+      "key": "快车资源",
+      "name": "♻️快车.云播",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "战争片",
+        "动作片",
+        "香港剧"
+      ]
+    },
+    {
+      "key": "卧龙资源",
+      "name": "♻️卧龙.云播",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "恐怖片",
+        "动作片"
+      ]
+    },
+    {
+      "key": "光速资源",
+      "name": "♻️光速.云播",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "大陆剧",
+        "港澳剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "闪电资源",
+      "name": "♻️闪电.云播",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xml_享看",
+      "name": "♻️享看.云播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://xkanzy10.com/api.php/provide/vod"
+    },
+    {
+      "key": "天空资源",
+      "name": "♻️天空.云播",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "剧情片",
+        "大陆综艺",
+        "动作片"
+      ]
+    },
+    {
+      "key": "新浪资源",
+      "name": "♻️新浪.云播",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "",
+      "categories": [
+        "大陆剧",
+        "动作片",
+        "动漫",
+        "综艺"
+      ]
+    },
+    {
+      "key": "百度资源",
+      "name": "♻️百度.云播",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "大陆剧",
+        "战争片",
+        "动作片",
+        "喜剧片"
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"},
 {"key":"csp_XBPQ_ 零零七","name":"💢零零七","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
 {"key":"csp_XBPQ_ 六度","name":"💢六度","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/六度.json"},
