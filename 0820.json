@@ -563,7 +563,7 @@
 {"key": "csp_XYQHikerAL_蓝光网","name": "🧲蓝光网☆磁力", "type": 3,"api": "csp_XYQHikerAL", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://la.kstore.space/download/4927/Axkl/json/蓝光电影网.json","jar": "https://la.kstore.space/download/4927/Axkl/jar/xyqg0913.jar"},
 {"key": "csp_XPath_音范丝","name": "🧲音范丝☆磁力","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://la.kstore.space/download/4927/Axkl/json/音范丝.json"},
 
-{"key": "drpy_Bttwo","name": "👶2BT☆影视","type": 3,"api": "https://tvbox0820.s3-us-east-1.ossfiles.com/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
+{"key": "drpy_Bttwo","name": "👶2BT☆影视","type": 3,"api": "https://tvbox0820.s3-us-east-1.ossfiles.com/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E4%B8%A4%E4%B8%AABT.js"},
 
 {"key": "csp_XBPQ_Libvio","name":"👶Lib☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"https://www.libvio.pro/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html" ,"分类": "电影$1#剧集$2#动漫$4#即将上映$27#日韩剧$15#欧美剧$16"}},
 {"key": "csp_XBPQ_策驰","name":"👶策驰☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html" ,"分类": "电影$1#剧集$2#综艺$3#动漫$4"}},
