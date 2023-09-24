@@ -625,7 +625,7 @@
 
 {"key":"drpy_js_大师兄影视","name":"影视 | 大师兄影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/ddys.js"},
-{"key": "drpy_抖音追忆","name": "抖音☆追忆","type": 3,"api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E6%8A%96%E9%9F%B3%E8%BF%BD%E5%BF%86.js"},
+{"key": "drpy_抖音追忆","name": "抖音☆追忆","type": 3,"api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/76906/TVBOX/main/js/%E6%8A%96%E9%9F%B3%E8%BF%BD%E5%BF%86.js"},
 {"key":"drpy_js_voflix","name":"影视 | voflix[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/voflix.js"},
 {"key":"drpy_js_热播库","name":"影视 | 热播库[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/热播库.js"},
 {"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/js/南瓜影视.js"},
