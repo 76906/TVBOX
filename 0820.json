@@ -367,19 +367,66 @@
 {"key": "csp_AppYsV2_光影猫","name": "光影猫☆影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
 
 
-
+  {
+            "key": "csp_xml_小猫咪",
+            "name": "小猫咪",
+            "type": 1,
+            "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+            "group": "tvbox",
+            "search": 1,
+            "isActive": true,
+            "status": true,
+            "id": 1040,
+            "resource": 64247
+        },
 
 {
-      "key": "专线",
-      "name": "🚅专线┃App",
+      "key": "蚂蚁",
+      "name": "🐜蚂蚁┃直连",
       "type": 3,
-      "api": "csp_ZhuanX",
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://rzys.xyz","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+    },
+  {
+      "key": "率率",
+      "name": "💡率率┃直连",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://cms.maoyingshi.cc/api.php/app/","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "恐怖片",
+        "剧情片",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺"
+      ]
     },
-
+    {
+      "key": "毛驴",
+      "name": "🍓毛驴┃App",
+      "type": 3,
+      "api": "csp_Maolv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+    },
 
 
 
