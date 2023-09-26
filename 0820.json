@@ -358,7 +358,6 @@
 {"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_p2p2_min.js","ext":"18+"},	
 
 {"key":"RJuMao","name":" 热剧猫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.aaaa0.top:2525/api.php/app/","jar": "http://121.62.19.146:2583/uploads/itvbox/default_custom_spider.jar"},
-{"key":"君离","name": "🧝君离┃影视","type":3,"api": "csp_AppYsV2","ext":"http://jlys6.top/mogai_api.php/v1.vod"},	
 
 {
       "key": "速搜",
