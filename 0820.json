@@ -357,6 +357,8 @@
 {"key":"push_agent","name":"推送|lf_push","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_pushagent_min.js"},
 {"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_p2p2_min.js","ext":"18+"},	
 
+{"key":"RJuMao","name":" 热剧猫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.aaaa0.top:2525/api.php/app/","jar": "http://121.62.19.146:2583/uploads/itvbox/default_custom_spider.jar"},
+	
 
 {
       "key": "速搜",
@@ -3236,7 +3238,7 @@
 {"name":"官源3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
 
 {"name": "官源4","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=ehilmnqyCDGHILNUXZ&mgtv=app&url="},
-
+{"name": "RJuMao","type": 1,"url": "http://jx.daenys.vip:2587/tjxdsg.php?url="},
 
  {
       "name": "猎狼解析2",
