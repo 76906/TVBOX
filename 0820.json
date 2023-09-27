@@ -381,7 +381,17 @@
 {"key": "csp_XBPQ_速搜","name": "👶速搜影院","type": 3,"api": "csp_XBPQ","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox0820.s3-us-east-1.ossfiles.com/json/%E9%80%9F%E6%90%9C.json"},
 
 {"key":"drpy_js_京项影视","name":"影视 | 京项影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E4%BA%AC%E9%A1%B9%E5%BD%B1%E8%A7%86.js"},
-
+{
+      "key": "嘉靓",
+      "name": "嘉良┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.jialiangos.com/api.php/app/"
+    },
 
 
 {"key": "csp_AppYsV2_光影猫","name": "光影猫☆影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
