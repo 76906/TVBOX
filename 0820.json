@@ -381,6 +381,9 @@
 {"key": "csp_XBPQ_速搜","name": "👶速搜影院","type": 3,"api": "csp_XBPQ","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox0820.s3-us-east-1.ossfiles.com/json/%E9%80%9F%E6%90%9C.json"},
 
 {"key":"drpy_js_京项影视","name":"影视 | 京项影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E4%BA%AC%E9%A1%B9%E5%BD%B1%E8%A7%86.js"},
+{"key":"drpy_js_4k视界","name":"影视 | 4k视界[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/4k%E8%A7%86%E7%95%8C.js"},
+
+	
 {
       "key": "嘉靓",
       "name": "嘉良┃影视",
