@@ -270,16 +270,15 @@
 	
 	
  {
-    "key": "csp_KungFu404",
-    "name": "🎦有效聚合",
-    "type": 3,
-    "api": "csp_KungFu404",
-    "searchable": 1,
-    "filterable": 1,
-    "changeable": 0,
-    "jar":"https://gitee.com/lekanbox/ali/raw/master/alibaba.jar"
+      "key": "csp_KungFu404",
+      "name": "💠┃阿里┃设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
     },
-
 	
 
 	
@@ -308,6 +307,18 @@
 	
 
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/4KHDR.json","jar": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/custom_spider.jar"},	
+
+   {
+      "key": "cps_aliyunpan",
+      "name": "👩‍🔬┃玩偶┃妹妹",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
+    },
+
+
+
 	
  {
       "ext": "eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==",
