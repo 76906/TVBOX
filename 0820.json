@@ -389,11 +389,15 @@
 {"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/lf_p2p2_min.js","ext":"18+"},	
 
 {"key":"RJuMao","name":" 热剧猫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.aaaa0.top:2525/api.php/app/","jar": "http://121.62.19.146:2583/uploads/itvbox/default_custom_spider.jar"},
-{"key": "csp_XBPQ_速搜","name": "👶速搜影院","type": 3,"api": "csp_XBPQ","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox0820.s3-us-east-1.ossfiles.com/json/%E9%80%9F%E6%90%9C.json"},
+
 
 {"key":"drpy_js_京项影视","name":"影视 | 京项影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E4%BA%AC%E9%A1%B9%E5%BD%B1%E8%A7%86.js"},
 {"key":"drpy_js_4k视界","name":"影视 | 4k视界[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/4k%E8%A7%86%E7%95%8C.js"},
+{"key":"drpy_js_速看100","name":"影视 | 速看100[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E9%80%9F%E7%9C%8B100%5BV2%5D.js"},
+	
+{"key": "csp_XYQHiker_速搜影院","name":"速搜影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/json/%E9%80%9F%E6%90%9C%E5%BD%B1%E9%99%A2.json"},
 
+	
 	
 {
       "key": "嘉靓",
@@ -598,7 +602,7 @@
             }
         },
 {"key": "jszy","name": "极速资源┃ ","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","style":{ "type":"oval","ratio": 0.75},"searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"快帆","name":"快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
 
 	
  {
