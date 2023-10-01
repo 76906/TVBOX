@@ -316,16 +316,7 @@
 {"key":"csp_Sp360","name":"弹幕┃360影视","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/928.jar;md5;7c4e630d2991bdc5ac8089b963b0d98e"},
 
 
-{"key":"csp_xb_zbk","name":"影视┃真不卡[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
-{"key":"csp_xb_ysgc","name":"影视┃影视工厂[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
-{"key":"csp_xb_cokemv","name":"影视┃cokemv[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
-{"key":"csp_xb_达达龟","name":"影视┃达达龟[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
-{"key":"csp_xb_shm","name":"影视┃神马影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
-{"key":"csp_xb_fg","name":"影视┃疯狗影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
-{"key":"csp_XP_动漫巴士","name":"影视┃动漫巴士[XPF]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/动漫巴士.json"},
-{"key":"csp_XP_dmw","name":"影视┃动漫岛[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/dmw.json"},
-{"key":"csp_XP_gongreng","name":"影视┃工人影视[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/gongreng.json"},
-{"key":"csp_XP_独播库","name":"影视┃独播库•飞[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/duboku.json"},
+
 
 
 
@@ -654,6 +645,19 @@
 {"key":"畅梦","name":"🚛畅梦┃秒播","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/changmeng.js"},
 {"key":"348影视","name":"🚛348┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.link:33/sub/348.json"},
 
+{"key":"csp_xb_zbk","name":"影视┃真不卡[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
+{"key":"csp_xb_ysgc","name":"影视┃影视工厂[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
+{"key":"csp_xb_cokemv","name":"影视┃cokemv[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
+{"key":"csp_xb_达达龟","name":"影视┃达达龟[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
+{"key":"csp_xb_shm","name":"影视┃神马影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
+{"key":"csp_xb_fg","name":"影视┃疯狗影视[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html","jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
+{"key":"csp_XP_动漫巴士","name":"影视┃动漫巴士[XPF]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/动漫巴士.json"},
+{"key":"csp_XP_dmw","name":"影视┃动漫岛[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/dmw.json"},
+{"key":"csp_XP_gongreng","name":"影视┃工人影视[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/gongreng.json"},
+{"key":"csp_XP_独播库","name":"影视┃独播库•飞[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/chuqiuyu/gao/raw/branch/master/json/duboku.json"},
+
+	
+	
 
 
 {"key": "路飛转点播","name": "路飛_MV","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.txt","viewType": 2},
