@@ -405,7 +405,16 @@
 {"key":"drpy_js_京项影视","name":"影视 | 京项影视[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E4%BA%AC%E9%A1%B9%E5%BD%B1%E8%A7%86.js"},
 {"key":"drpy_js_4k视界","name":"影视 | 4k视界[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/4k%E8%A7%86%E7%95%8C.js"},
 {"key":"drpy_js_速看100","name":"影视 | 速看100[js]","type":3,"api":"https://agit.ai/chuqiuyu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E9%80%9F%E7%9C%8B100%5BV2%5D.js"},
-	
+{
+      "key": "js_star",
+      "name": "🌟‍┃星辰┃影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
+    },	
 {"key": "csp_XYQHiker_速搜影院","name":"速搜影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/json/%E9%80%9F%E6%90%9C%E5%BD%B1%E9%99%A2.json","jar": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/custom_spider.jar"},
 
 	
