@@ -317,7 +317,13 @@
 
 
 
-
+{
+      "key": "yp",
+      "name": "YP",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://zy.xzam.cn/api.php/provide/vod/"
+    },
 
 
 
