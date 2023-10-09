@@ -337,15 +337,13 @@
 
 {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},	
 {
-      "key": "csp_XBPQ_haoxi",
-      "name": "mino4K",
+      "key": "mino4K",
+      "name": "⛅┃mino┃4K",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/好戏.json"
-    },	
+      "api": "csp_Appto",
+      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx",
+      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"
+    },
 
 {
       "key": "🦐",
