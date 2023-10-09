@@ -348,7 +348,32 @@
 {"key": "xml_轻简","name":"👶轻简☆采集","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories": ["电影","电视剧","综艺","动漫"]}, 
 {"key": "xml_影图","name":"👶影图☆采集","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"changeable":1},
 {"key": "xml_搜狐","name":"👶搜狐☆采集","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable":1},
+ {
+      "key": "js_nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
+    },
+ {
+      "key": "csp_XBPQ_aoaotv",
+      "name": "🎦┃短剧┃嗷嗷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+      }
+    },
 
+
+	
 
 	
 {
