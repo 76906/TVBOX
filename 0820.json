@@ -527,7 +527,7 @@
 {"key":"drpy_js_京项影视","name":"影视 | 京项影视[js]","type":3,"api":"https://la.kstore.space/download/4927/Axkl/libs/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E4%BA%AC%E9%A1%B9%E5%BD%B1%E8%A7%86.js"},
 {"key":"drpy_js_4k视界","name":"影视 | 4k视界[js]","type":3,"api":"https://la.kstore.space/download/4927/Axkl/libs/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/4k%E8%A7%86%E7%95%8C.js"},
 {"key":"drpy_js_速看100","name":"影视 | 速看100[js]","type":3,"api":"https://la.kstore.space/download/4927/Axkl/libs/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E9%80%9F%E7%9C%8B100%5BV2%5D.js"},
-{"key":"drpy_js_小苹果","name":"影视 | 小苹果[js]","type":3,"api":"https://la.kstore.space/download/4927/Axkl/libs/drpy2.min.js","ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/js/%E5%B0%8F%E8%8B%B9%E6%9E%9C.js"},
+
 
 {"key": "csp_345KP","name": "看片秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>[替换:播放线路>>传说接口→线路]","分类url":"https://www.345kp.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4","筛选":"1","免嗅":"1"}},	
 
