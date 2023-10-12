@@ -376,7 +376,18 @@
       ]
     },
 {"key":"蜜蜂资源","name":"蜜蜂资源","type":1,"api":"https://www.beeyao.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","大陆综艺","国产动漫","日韩综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片","动画片","奇幻片","港台剧","欧美剧","日韩剧","其他剧"]},
-{"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://szyyds.cn/tv/jsxp/xfeiji.json"},
+{
+            "key": "u采集",
+            "name": "u采集",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	
+	
+{"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/4103/json/%E5%B0%8F%E5%B0%8F%E5%BD%B1%E8%A7%86.json"},
 {
     "key": "jojo_open",
     "name": "影视|JOJO",
@@ -385,7 +396,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    "jar": "https://cn.kstore.space/download/4103/jar/OpenSpider.jar"
 },
 	
 	
