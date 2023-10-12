@@ -447,7 +447,29 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
     },
- {
+  {
+      "key": "csp_XYQHiker_DJ5",
+      "name": "🎦┃短剧┃DJ5",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/%E7%9F%AD%E5%89%A7%E7%BD%91HK.json"
+    },
+    {
+      "key": "csp_XYQHiker_VSYY",
+      "name": "🎦┃短剧┃VSY",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/VS影院.json"
+    },
+    {
       "key": "csp_XBPQ_aoaotv",
       "name": "🎦┃短剧┃嗷嗷",
       "type": 3,
@@ -459,6 +481,16 @@
         "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
       }
+    },
+    {
+      "key": "csp_XBPQ_haoxi",
+      "name": "⚡️┃好戏┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/好戏.json"
     },
 
 {"key":"csp_短剧网","name":"🔥短剧网[影视]_HK","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E7%9F%AD%E5%89%A7%E7%BD%91.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},
