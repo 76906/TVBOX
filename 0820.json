@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/Yoursmile.jar",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 	"wallpaper": "http://p9.qhimg.com/bdr/__85/t01b895c2571882becf.jpg",
 	
  "lives": [
@@ -456,6 +456,25 @@
             }
         },
 {"key":"365","name": "365┃资源","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
+ {
+            "key": "mino4K",
+            "name": "毛驴〓影视",
+            "type": 3,
+            "api": "csp_Appto",
+            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok2.jar",
+            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+        },
+        {
+            "key": "追忆影视",
+            "name": "追忆〓影视",
+            "type": 3,
+            "api": "csp_Appto",
+            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok2.jar",
+            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+        },
+
+
+
 
 	
 	
