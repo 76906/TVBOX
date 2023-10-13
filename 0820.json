@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+	"spider": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/Yoursmile.jar",
 	"wallpaper": "http://p9.qhimg.com/bdr/__85/t01b895c2571882becf.jpg",
 	
  "lives": [
@@ -455,15 +455,7 @@
                 "搜索url": "https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}"
             }
         },
-{"key":"365","name": "365┃资源","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
- {
-            "key": "mino4K",
-            "name": "毛驴〓影视",
-            "type": 3,
-            "api": "csp_Appto",
-            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok2.jar",
-            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-        },
+
         {
             "key": "追忆影视",
             "name": "追忆〓影视",
@@ -526,9 +518,20 @@
 
 
 {"key":"csp_短剧网","name":"🔥短剧网[影视]_HK","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E7%9F%AD%E5%89%A7%E7%BD%91.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},
-
 {"key":"csp_XBPQ_miniju","name":"🍹迷你剧🍹[影视]_XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html","分类":"短剧$20#电影$22#电视剧$21#动漫$23#综艺$24"}},	
-	
+{
+      "key": "csp_XBPQ_aoaotv",
+      "name": "🎦┃短剧┃嗷嗷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+      }
+    },	
 
 	
 {
