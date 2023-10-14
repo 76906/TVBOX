@@ -514,7 +514,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
     },
-
+{"key":"一起看 ","name":"一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://agit.ai/chuqiuyu/gao/raw/branch/master/jar/fan.txt"},
 
 {"key":"csp_短剧网","name":"🔥短剧网[影视]_HK","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E7%9F%AD%E5%89%A7%E7%BD%91.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},
 {"key":"csp_XBPQ_miniju","name":"🍹迷你剧🍹[影视]_XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html","分类":"短剧$20#电影$22#电视剧$21#动漫$23#综艺$24"}},	
