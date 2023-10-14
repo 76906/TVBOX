@@ -312,6 +312,19 @@
 {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox0820.s3-us-east-1.ossfiles.com/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},	
 {"key": "csp_XYQHikerAL_橘子盘搜","name":"📀橘子盘搜(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E6%A9%98%E5%AD%90%E7%9B%98%E6%90%9C.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},	
 {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%90%9C%E7%B4%A2.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},	
+
+{
+            "key": "Alist",
+            "name": "┃龙龙┃Alist┃",
+            "type": 3,
+            "api": "http://154.8.204.57:40214/tvbox/libs/alist.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://154.8.204.57:40214/tvbox/json/alist.json;200;video"
+        },
+
+
 	
 
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/4KHDR.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},	
