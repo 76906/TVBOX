@@ -397,24 +397,6 @@
 {"key": "xml_影图","name":"👶影图☆采集","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"changeable":1},
 {"key":"csp_XBPQ_蛋蛋剧","name":"👶蛋蛋☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4927/Axkl/json/蛋蛋影视.json"},
 	
-{
-            "key": "午夜",
-            "name": "午夜┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "数组": "pic\">&&</li>",
-                "副标题": "item-status text-overflow\">&&</p>",
-                "搜索url": "/vodsearch/-------------.html?wd={wd}",
-                "搜索数组": "pic\">&&</ul>",
-                "搜索副标题": "text-overflow\">&&</p>",
-                "线路数组": "role=\"group\"&&</em>",
-                "线路标题": ">午夜线路<",
-                "分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
-                "分类": "电影$vod#电视剧$tv#综艺$zongyi#动漫$dongman#午夜电影$wuye"
-            }
-        },
-
 
 	
 {
