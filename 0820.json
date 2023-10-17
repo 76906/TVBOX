@@ -386,14 +386,7 @@
 {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},	
  {"key":"JOJO","name":"吉吉┃4K","type":3,"jar":"http://itvba.xyz/tv/jar/1013.jar","api": "csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu": true}}, 
 	
-{
-      "key": "mino4K",
-      "name": "⛅┃mino┃4K",
-      "type": 3,
-      "api": "csp_Appto",
-      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx",
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"
-    },
+
 {"key": "xml_路人甲","name":"👶路人☆采集","type": 1,"api": "http://dytt996.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable": 1,"categories": ["短剧视频","电影","连续剧","综艺","动漫","海外剧"]},  
 {"key": "xml_轻简","name":"👶轻简☆采集","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories": ["电影","电视剧","综艺","动漫"]}, 
 {"key": "xml_影图","name":"👶影图☆采集","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"changeable":1},
