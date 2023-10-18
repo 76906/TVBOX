@@ -288,6 +288,111 @@
       "changeable": 0,
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
     },
+
+{
+            "key": "應用商店",
+            "name": "应用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1857d736869fbeb63ddf63e9065d053b",
+            "ext": [
+                {
+                    "name": "電視-java-v7",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+                },
+                {
+                    "name": "電視-java-v8",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+                },
+                {
+                    "name": "電視-py-v7",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+                },
+                {
+                    "name": "電視-py-v8",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+                },
+                {
+                    "name": "Android-4.x",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+                },
+                {
+                    "name": "手機-java-v7",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+                },
+                {
+                    "name": "手機-java-v8",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+                },
+                {
+                    "name": "手機-py-v7",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+                },
+                {
+                    "name": "手機-py-v8",
+                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk",
+                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+                },
+                {
+                    "name": "内测TV版-java32",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                },
+                {
+                    "name": "内测TV版-java64",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                },
+                {
+                    "name": "内测TV版-py32",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                },
+                {
+                    "name": "内测TV版-py64",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                },
+                {
+                    "name": "内测TV版(4.1-4.4)",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/kitkat/leanback.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                },
+                {
+                    "name": "内测手機版-java32",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                },
+                {
+                    "name": "内测手機版-java64",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                },
+                {
+                    "name": "内测手機版-py32",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                },
+                {
+                    "name": "内测手機版-py64",
+                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk",
+                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
+                }
+            ]
+        },
+
+
+
 	
 
 	
@@ -392,7 +497,40 @@
 {"key": "xml_影图","name":"👶影图☆采集","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"changeable":1},
 {"key":"csp_XBPQ_蛋蛋剧","name":"👶蛋蛋☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4927/Axkl/json/蛋蛋影视.json"},
 	
-
+ {
+      "key": "北极星",
+      "name": "🦄北极星┃资源",
+      "type": 1,
+      "api": "https://bjx01.com/api.php/provide/vod",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "海外剧",
+        "纪录片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画片",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
 	
 {
       "key": "guangsuapi",
