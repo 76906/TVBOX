@@ -434,9 +434,40 @@
 
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/4KHDR.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},	
 {"key": "csp_XYQHiker_影视工场","name":"影视工场(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%9C%BA.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},
+{
+      "key": "Cokemv",
+      "name": "📕可乐┃直连",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,"jar": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/fan.txt"
+    },
+{
+      "key": "蚂蚁",
+      "name": "🐜蚂蚁┃直连",
+      "type": 3,
+      "api": "csp_MYYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://rzys.xyz","jar": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/fan.txt"
+    },
+  {
+      "key": "毛驴",
+      "name": "🍓毛驴┃直连",
+      "type": 3,
+      "api": "csp_MLYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/","jar": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/fan.txt"
+    },
 
 
-{"key": "csp_XYQHiker_COKEMV影院","name":"COKEMV影院(XYQH)","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/COKEMV%E5%BD%B1%E9%99%A2.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},
+	
+
 {"key": "csp_XYQHiker_锐行加速影院","name":"锐行加速影院(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},
 
 {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/4103/json/%E7%94%B5%E5%BD%B1%E6%B8%AF%E7%A3%81%E5%8A%9B.json","jar": "https://cn.kstore.space/download/4103/jar/custom_spider.jar"},
