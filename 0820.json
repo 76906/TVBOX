@@ -482,7 +482,15 @@
             "api": "https://cn.kstore.space/download/4103/js/lf_search3_min.js"
         },
 
-
+{
+      "key": "JOJO",
+      "name": "🕊︎JOJO┃直连",
+      "type": 3,
+      "api": "csp_JOJO",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,"jar": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/fan.txt"
+    },
 
 
 
