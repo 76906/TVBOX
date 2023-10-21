@@ -454,16 +454,6 @@
       "changeable": 1,
       "ext": "http://rzys.xyz","jar": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/fan.txt"
     },
-  {
-      "key": "毛驴",
-      "name": "🍓毛驴┃直连",
-      "type": 3,
-      "api": "csp_MLYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/","jar": "https://tvbox0820.s3-us-east-1.ossfiles.com/jar/fan.txt"
-    },
 
 
 	
